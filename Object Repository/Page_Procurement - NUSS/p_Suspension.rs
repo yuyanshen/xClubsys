@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Suspension</name>
+   <tag></tag>
+   <elementGuidId>07078d94-0e35-4777-b8be-cde7742fff7a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#Suspension > a.layout-align-space-between-center.layout-row.flex > p.ng-binding.flex</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//md-list-item[@id='Suspension']/a/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>31f5e95a-f2fd-4ca6-a0a4-f3714305ee4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding flex</value>
+      <webElementGuid>2d4e3a0c-7399-4d99-9c70-b78386dec48b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Suspension</value>
+      <webElementGuid>533032a6-e6e4-4087-a775-804a8e0d3f82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Suspension&quot;)/a[@class=&quot;layout-align-space-between-center layout-row flex&quot;]/p[@class=&quot;ng-binding flex&quot;]</value>
+      <webElementGuid>7f0cb07d-ff0d-482c-9466-93d6e236259a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//md-list-item[@id='Suspension']/a/p</value>
+      <webElementGuid>1da738dd-c0bf-47e7-aa55-1611642250ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/following::p[22]</value>
+      <webElementGuid>17b2ceee-2d99-46c7-83de-9d8014ba0928</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Studio'])[1]/following::p[22]</value>
+      <webElementGuid>b561679d-4689-4261-b2d3-4e5f8ff828cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expand'])[1]/preceding::p[25]</value>
+      <webElementGuid>88d89e6a-d997-4f2b-806c-337fdb3994f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Collapse'])[1]/preceding::p[25]</value>
+      <webElementGuid>aab16d86-4a65-467c-8e08-c87b4b95e7fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Suspension']/parent::*</value>
+      <webElementGuid>7b81691c-41c5-48fd-a0a9-03f9f39ec7f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//md-list[6]/md-list-item[4]/a/p</value>
+      <webElementGuid>f497ec4c-ca1c-48cb-a3f5-a54e7d6f78a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Suspension' or . = 'Suspension')]</value>
+      <webElementGuid>0230f784-33fb-4446-843b-be98cbe06a29</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Purchases</name>
+   <tag></tag>
+   <elementGuidId>1865a5de-bc8c-4c22-9155-d6b454540060</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.ng-binding.flex</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//md-list-item[@id='Purchases']/a/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>80f07576-6a12-4013-9ced-aadbf7356ab8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding flex</value>
+      <webElementGuid>f3bd2f7c-da0d-4ef0-84b4-17b81303ff6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Purchases</value>
+      <webElementGuid>d614aed5-daa6-4fcf-b5f4-c95e5475c806</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Purchases&quot;)/a[@class=&quot;layout-align-space-between-center layout-row flex&quot;]/p[@class=&quot;ng-binding flex&quot;]</value>
+      <webElementGuid>329a5309-1d5a-4283-8293-f7c5c94db97b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//md-list-item[@id='Purchases']/a/p</value>
+      <webElementGuid>ee180625-c86f-4736-a5e3-ccc2328beec5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/following::p[1]</value>
+      <webElementGuid>62492f76-484d-41d0-97d6-b69dbc74dcbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Studio'])[1]/following::p[1]</value>
+      <webElementGuid>7b97cea0-da55-43c5-b248-8dee35d59554</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expand'])[1]/preceding::p[26]</value>
+      <webElementGuid>85daaa3a-ec1d-444c-90ec-96e5aa6b46bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Collapse'])[1]/preceding::p[26]</value>
+      <webElementGuid>e63c145c-133a-4677-8b16-978ff3438f2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Purchases']/parent::*</value>
+      <webElementGuid>f3fdb314-60b6-4cdd-9c84-29c42ed4d64c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>3bd042fe-cdaa-43d7-9ac5-3688da2a7575</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Purchases' or . = 'Purchases')]</value>
+      <webElementGuid>82cd5f92-b8c2-4a7b-ad83-cb032d7f79dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Transfer</name>
+   <tag></tag>
+   <elementGuidId>6559e9b1-aa3f-41d9-8764-e08d1bddca1d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//md-list-item[@id='Transfer']/a/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Transfer > a.layout-align-space-between-center.layout-row.flex > p.ng-binding.flex</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>c39b0702-32f3-494e-965d-a5e577819458</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding flex</value>
+      <webElementGuid>4c82b63d-1168-4b0a-8d94-3d34cb7f56bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Transfer</value>
+      <webElementGuid>78ae9748-32ed-40a7-8814-37af9aa1799e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Transfer&quot;)/a[@class=&quot;layout-align-space-between-center layout-row flex&quot;]/p[@class=&quot;ng-binding flex&quot;]</value>
+      <webElementGuid>1f9aa7c5-0e7b-49df-83ec-d5ce4518b027</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//md-list-item[@id='Transfer']/a/p</value>
+      <webElementGuid>37045236-8316-4b2c-925a-46fc3f9e8697</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/following::p[3]</value>
+      <webElementGuid>c93cfb8b-efd7-4779-a0f8-01c844e0bda2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Studio'])[1]/following::p[3]</value>
+      <webElementGuid>c7eb51fa-80a8-4ceb-a0be-74dfbd508046</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expand'])[1]/preceding::p[8]</value>
+      <webElementGuid>00bedb89-9e27-4185-b59d-e537bab46a21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Collapse'])[1]/preceding::p[8]</value>
+      <webElementGuid>2a7ff959-b977-4d6b-b7f5-1e64c588cac6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Transfer']/parent::*</value>
+      <webElementGuid>57947947-6628-4c42-a2a4-5be55394f06b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//md-list/md-list/md-list-item[2]/a/p</value>
+      <webElementGuid>b4e16127-9205-4228-9b2d-11ca7cb9462e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Transfer' or . = 'Transfer')]</value>
+      <webElementGuid>a8737309-5703-4bbc-9f9e-1a57bdc88c62</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

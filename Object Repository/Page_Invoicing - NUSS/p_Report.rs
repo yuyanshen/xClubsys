@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Report</name>
+   <tag></tag>
+   <elementGuidId>834db3bc-965d-45b7-985e-98132f7da8f8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#Report > a.layout-align-space-between-center.layout-row.flex > p.ng-binding.flex</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//md-list-item[@id='Report']/a/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>f3e031b9-6bc4-4df9-95a7-9ad6b41638cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding flex</value>
+      <webElementGuid>3bd32c9a-6631-48ac-9ea0-36aa7282934f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Report</value>
+      <webElementGuid>e6ba224a-0ce4-46b5-9831-68e6398602df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Report&quot;)/a[@class=&quot;layout-align-space-between-center layout-row flex&quot;]/p[@class=&quot;ng-binding flex&quot;]</value>
+      <webElementGuid>9e8a00c1-4aa1-48d7-a541-37f4dab43056</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//md-list-item[@id='Report']/a/p</value>
+      <webElementGuid>070f7ca1-0927-41a5-be16-0f08bd2da7fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/following::p[14]</value>
+      <webElementGuid>b51e147e-f00e-409f-ba35-786b530fe7b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Studio'])[1]/following::p[14]</value>
+      <webElementGuid>eacd8f5e-fc7d-4912-a98e-f5f8cf995ef5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expand'])[1]/preceding::p[13]</value>
+      <webElementGuid>49b6c8ca-baac-4878-a1db-5f16fd05b13a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Collapse'])[1]/preceding::p[13]</value>
+      <webElementGuid>6c3c89ea-8eba-43f5-8316-f563ad754fea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Report']/parent::*</value>
+      <webElementGuid>47df8da1-c80b-49ae-9c26-c890a2cf3958</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//md-list-item[3]/a/p</value>
+      <webElementGuid>105928b2-091f-41b1-ac30-e8c4315f9fdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Report' or . = 'Report')]</value>
+      <webElementGuid>b7ef5e31-4ee3-42e5-a40e-efda17b73591</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

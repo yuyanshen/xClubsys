@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_News</name>
+   <tag></tag>
+   <elementGuidId>10907413-2ee0-491c-bdcf-8098b3a02f97</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;News&quot;] > div.layout-xs-row.layout-gt-xs-column.layout-align-xs-start-center.layout-align-start-center</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='header']/div[2]/nav/div/div/div[13]/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d395904b-98c1-428a-950f-b5a2b8d2cdef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>layout-xs</name>
+      <type>Main</type>
+      <value>row</value>
+      <webElementGuid>2753b3b8-d86d-4817-8e80-4a787b2dd189</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>layout-gt-xs</name>
+      <type>Main</type>
+      <value>column</value>
+      <webElementGuid>a2309d86-fc83-473c-9194-fab4e7e09e57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>layout-align</name>
+      <type>Main</type>
+      <value>start center</value>
+      <webElementGuid>1dd5d327-34c0-4a0a-b75e-9fd13aa63e05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>layout-align-xs</name>
+      <type>Main</type>
+      <value>start center</value>
+      <webElementGuid>a21e02c3-b8d0-4658-8ba5-b0a3aeb3ed37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>layout-xs-row layout-gt-xs-column layout-align-xs-start-center layout-align-start-center</value>
+      <webElementGuid>8b9eb9cc-c22c-439d-a887-ad4deb9124ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>                                News                    </value>
+      <webElementGuid>56db4f9b-0130-43a3-a20a-b02abd7b6d8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[2]/nav[@class=&quot;header-nav az-wrapper layout-align-start-center layout-row&quot;]/div[@class=&quot;az-wrapper-canvas layout-align-start-stretch layout-row&quot;]/div[@class=&quot;az-wrapper-pagination layout-align-start-stretch layout-row&quot;]/div[@class=&quot;md-icons-before ng-scope&quot;]/a[1]/div[@class=&quot;layout-xs-row layout-gt-xs-column layout-align-xs-start-center layout-align-start-center&quot;]</value>
+      <webElementGuid>d9438648-5470-4f61-ab9a-ff78bbf0d325</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header']/div[2]/nav/div/div/div[13]/a/div</value>
+      <webElementGuid>fa2ba759-e690-47e4-ac9c-43080d402589</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logging'])[1]/following::div[2]</value>
+      <webElementGuid>bece92c2-c96c-4029-b0d5-696b260674a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Budget'])[1]/following::div[4]</value>
+      <webElementGuid>384b70ea-2960-45ba-bf52-9fc48b84587c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Services'])[1]/preceding::div[1]</value>
+      <webElementGuid>39d1076c-1db0-498e-b54a-7a149e4d0de3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/a/div</value>
+      <webElementGuid>c8a186a7-988c-49b6-b28d-a14277310d3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '                                News                    ' or . = '                                News                    ')]</value>
+      <webElementGuid>3ccaee97-6912-44f9-8dfa-1e4e4e6bcb44</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

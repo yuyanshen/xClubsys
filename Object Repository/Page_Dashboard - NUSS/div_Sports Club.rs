@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sports Club</name>
+   <tag></tag>
+   <elementGuidId>8338d863-7732-428c-9a29-2f649f5efdbf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Sports Club&quot;] > div.layout-xs-row.layout-gt-xs-column.layout-align-xs-start-center.layout-align-start-center</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='header']/div[2]/nav/div/div/div[15]/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3e66d85b-202a-44bc-8127-3e35c600c954</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>layout-xs</name>
+      <type>Main</type>
+      <value>row</value>
+      <webElementGuid>e2d0589c-df3f-444e-9aa0-f040c11060f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>layout-gt-xs</name>
+      <type>Main</type>
+      <value>column</value>
+      <webElementGuid>01d481c9-b738-4c0c-a5c9-00a2420acb4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>layout-align</name>
+      <type>Main</type>
+      <value>start center</value>
+      <webElementGuid>1b43dc6d-ec58-45fb-99e6-926bd3e8b753</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>layout-align-xs</name>
+      <type>Main</type>
+      <value>start center</value>
+      <webElementGuid>4bad4187-649d-4e1a-8790-95f76375763c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>layout-xs-row layout-gt-xs-column layout-align-xs-start-center layout-align-start-center</value>
+      <webElementGuid>9203896d-cc8f-47ca-a203-a1b5a3c1a6ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>                                Sports Club                    </value>
+      <webElementGuid>01953002-480c-42e0-8e2c-0f824ad85813</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[2]/nav[@class=&quot;header-nav az-wrapper layout-align-start-center layout-row&quot;]/div[@class=&quot;az-wrapper-canvas layout-align-start-stretch layout-row&quot;]/div[@class=&quot;az-wrapper-pagination layout-align-start-stretch layout-row&quot;]/div[@class=&quot;md-icons-before ng-scope&quot;]/a[1]/div[@class=&quot;layout-xs-row layout-gt-xs-column layout-align-xs-start-center layout-align-start-center&quot;]</value>
+      <webElementGuid>ae93c4c7-3dad-465b-ac4c-b90e679e629c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header']/div[2]/nav/div/div/div[15]/a/div</value>
+      <webElementGuid>ac700002-8497-46b0-a232-4ca349b5b2e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Services'])[1]/following::div[2]</value>
+      <webElementGuid>eb848161-5260-4883-9504-6c89bf77ebdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='News'])[1]/following::div[4]</value>
+      <webElementGuid>04d57cea-0d82-40df-aa7a-30a320a47215</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AR'])[1]/preceding::div[1]</value>
+      <webElementGuid>e4e4dfec-ad62-4d2c-8524-dc203fc6305c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[15]/a/div</value>
+      <webElementGuid>03e22a3f-9c5a-4fe8-a23a-319f09df641c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '                                Sports Club                    ' or . = '                                Sports Club                    ')]</value>
+      <webElementGuid>a6f8bdbe-8eb0-4d79-a64f-73851a2c3636</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

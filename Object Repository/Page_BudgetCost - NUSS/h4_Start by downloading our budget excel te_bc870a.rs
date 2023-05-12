@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_Start by downloading our budget excel te_bc870a</name>
+   <tag></tag>
+   <elementGuidId>38be4a01-8d55-460f-a724-50e0813df55a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//md-card-content[@id='section_0']/div/h4</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h4.NoFontWeight.flex-80</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>7dbe114d-f441-48fb-bede-4ae2798dd076</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>flex</name>
+      <type>Main</type>
+      <value>80</value>
+      <webElementGuid>516f01e6-1003-450b-82c6-782b33ac8e7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>NoFontWeight flex-80</value>
+      <webElementGuid>a6d2431b-30d7-4da9-b0f2-f5590f1e49d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Start by downloading our budget excel template file.This file has the corect column headings System needs to import your budget data. </value>
+      <webElementGuid>b9580984-9286-4b45-95e2-a5e767eeaac0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;section_0&quot;)/div[@class=&quot;collapse-target&quot;]/h4[@class=&quot;NoFontWeight flex-80&quot;]</value>
+      <webElementGuid>4aaf8637-1b0f-4324-8287-a2eeeea63165</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//md-card-content[@id='section_0']/div/h4</value>
+      <webElementGuid>55c6f85e-40ab-4725-9414-a6c36817eed8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Step 1.Download our budget template file'])[1]/following::h4[1]</value>
+      <webElementGuid>6f5f8b68-3336-4e88-ae31-6b9a393dbd88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Import your budget'])[1]/following::h4[2]</value>
+      <webElementGuid>dfb6f8c0-dfcb-445e-915f-edf6dee7d1ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download template file'])[1]/preceding::h4[1]</value>
+      <webElementGuid>92a29c1a-f23e-4e44-ae26-9660d8638852</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Step 2.Copy your budget into the template'])[1]/preceding::h4[1]</value>
+      <webElementGuid>4c283fc4-afd6-4d2f-b318-494a7d2bbb75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Start by downloading our budget excel template file.This file has the corect column headings System needs to import your budget data.']/parent::*</value>
+      <webElementGuid>c51f1d08-2086-4b5a-8809-0f2fff30c9ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/h4</value>
+      <webElementGuid>30afe676-1cf3-413b-b1b6-19967ffe970d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'Start by downloading our budget excel template file.This file has the corect column headings System needs to import your budget data. ' or . = 'Start by downloading our budget excel template file.This file has the corect column headings System needs to import your budget data. ')]</value>
+      <webElementGuid>1518c6d1-3fcc-44ef-bbd7-b78a3ae5152a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

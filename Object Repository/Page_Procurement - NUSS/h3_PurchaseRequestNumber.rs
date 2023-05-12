@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_PurchaseRequestNumber</name>
+   <tag></tag>
+   <elementGuidId>5c97039b-d178-4b66-9146-99a1fc5511d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3.form-title.ng-binding</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mCSB_1_container']/div/div[2]/form/md-card/md-card-header/div/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>70b2b035-38e5-4a52-af1e-208cda17366a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-title ng-binding</value>
+      <webElementGuid>67a9b67d-3418-48eb-b124-283412184e56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PurchaseRequestNumber：</value>
+      <webElementGuid>bb071ada-7608-48a4-a32f-b8638c635567</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mCSB_1_container&quot;)/div[@class=&quot;content-main ng-scope&quot;]/div[@class=&quot;content-body ng-scope&quot;]/form[@class=&quot;form-card ng-pristine ng-invalid ng-invalid-required ng-valid-mindate ng-valid-maxdate ng-valid-filtered ng-valid-valid&quot;]/md-card[@class=&quot;_md&quot;]/md-card-header[@class=&quot;card-header&quot;]/div[@class=&quot;layout-align-space-between-center layout-row flex&quot;]/h3[@class=&quot;form-title ng-binding&quot;]</value>
+      <webElementGuid>9c412ada-2af0-4b47-b5ef-9d0a480fb61a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mCSB_1_container']/div/div[2]/form/md-card/md-card-header/div/h3</value>
+      <webElementGuid>7f7124f8-79e1-48c6-8bce-1793349193eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Non Category'])[2]/following::h3[1]</value>
+      <webElementGuid>d91ca814-8618-4775-99ec-a88eac0ed67e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Single person:'])[1]/preceding::h3[1]</value>
+      <webElementGuid>5bc2aed0-f24e-4b16-aba4-d2584196181f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Essential information'])[1]/preceding::h3[1]</value>
+      <webElementGuid>4973584b-ad12-4b41-af95-07389fe7b25f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PurchaseRequestNumber：']/parent::*</value>
+      <webElementGuid>a1746e97-8933-45fe-8a28-bd40f7b66d07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//md-card-header/div/h3</value>
+      <webElementGuid>87845c80-091b-428f-af0a-5b98796862ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'PurchaseRequestNumber：' or . = 'PurchaseRequestNumber：')]</value>
+      <webElementGuid>27cf907d-510b-4ea8-8a72-18bb1ce5beb8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_New Journal Entry</name>
+   <tag></tag>
+   <elementGuidId>6f8bc6e3-5b4a-4e3c-a9b7-9967707a08fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.md-warn.md-button.md-ink-ripple</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[24]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a107cc2f-14dd-4382-aba3-a4be22a9df4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>md-warn md-button md-ink-ripple</value>
+      <webElementGuid>27083d89-8e32-427f-acab-43879777cd29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>617d4dc2-9e53-4e54-8a39-c42434bf9793</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-disabled</name>
+      <type>Main</type>
+      <value>busy</value>
+      <webElementGuid>bf50d8a0-3ae3-4992-ac6f-0f6c42a38b87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>vm.create()</value>
+      <webElementGuid>c8ea7225-0b3f-425f-b08f-0bf126074505</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                + New Journal Entry
+            </value>
+      <webElementGuid>94f28be2-6e07-4868-89a6-e5c8869374d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mCSB_1_container&quot;)/div[@class=&quot;content-main ng-scope&quot;]/div[@class=&quot;content-body ng-scope&quot;]/form[@class=&quot;form-card ng-pristine ng-valid ng-valid-md-multiple ng-valid-mindate ng-valid-maxdate ng-valid-filtered ng-valid-valid&quot;]/md-card[@class=&quot;_md&quot;]/div[@class=&quot;operation-toolbar operation-nav layout-align-start-center layout-row&quot;]/button[@class=&quot;md-warn md-button md-ink-ripple&quot;]</value>
+      <webElementGuid>f793fe57-5535-4291-8093-209a690ba86b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[24]</value>
+      <webElementGuid>3aef2de5-fb0c-4038-b0d6-6567e9dd348c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mCSB_1_container']/div/div/form/md-card/div[2]/button</value>
+      <webElementGuid>14fb1011-d31c-4f51-bb91-0c9a6cefecaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Journal Entries'])[3]/following::button[1]</value>
+      <webElementGuid>37167339-8e62-477d-a182-b01c32f95db4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Collapse'])[1]/following::button[2]</value>
+      <webElementGuid>d623d5a0-d52b-4c75-bccd-da2962ada4da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export'])[1]/preceding::button[1]</value>
+      <webElementGuid>66ea7c22-e4dd-4940-b0e5-22e5b8c5157c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bulk Upload'])[1]/preceding::button[2]</value>
+      <webElementGuid>a3b3c3ea-084e-49d8-86cc-86c6dd2d4334</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='+ New Journal Entry']/parent::*</value>
+      <webElementGuid>cf29afe8-7f49-4a43-9dc9-ff05a613c4c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//md-card/div[2]/button</value>
+      <webElementGuid>7ba6c143-d54e-4aab-9f82-3cacaeb79d9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '
+                + New Journal Entry
+            ' or . = '
+                + New Journal Entry
+            ')]</value>
+      <webElementGuid>edffd687-c371-4145-90ae-b99dd704bfc7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

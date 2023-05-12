@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Delegations</name>
+   <tag></tag>
+   <elementGuidId>50c7d687-bfd0-4b7f-aff2-685817b7c46f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#section_5 > div.layout-wrap.layout-xs-column.layout-sm-column.layout-row > div.layout-wrap.layout-xs-column.layout-sm-column.layout-align-gt-sm-start-start.layout-row.flex-100 > div.layout-column > md-grid-list.dashboard-grid.ng-isolate-scope._md > md-grid-tile.dashboard-tile.md-clickable.ng-isolate-scope > figure > a.ng-scope.flex > div.card-tile.layout-align-space-between-center.layout-row.flex > div.card-tile-text.layout-align-center-start.layout-column > span:nth-of-type(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//md-card-content[@id='section_5']/div/div/div/md-grid-list/md-grid-tile/figure/a/div/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>750ad159-8bd5-4d36-9a0d-3e82dfbb56f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delegations</value>
+      <webElementGuid>197b253a-c0e4-4655-a9d6-82d363bccabd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;section_5&quot;)/div[@class=&quot;layout-wrap layout-xs-column layout-sm-column layout-row&quot;]/div[@class=&quot;layout-wrap layout-xs-column layout-sm-column layout-align-gt-sm-start-start layout-row flex-100&quot;]/div[@class=&quot;layout-column&quot;]/md-grid-list[@class=&quot;dashboard-grid ng-isolate-scope _md&quot;]/md-grid-tile[@class=&quot;dashboard-tile md-clickable ng-isolate-scope&quot;]/figure[1]/a[@class=&quot;ng-scope flex&quot;]/div[@class=&quot;card-tile layout-align-space-between-center layout-row flex&quot;]/div[@class=&quot;card-tile-text layout-align-center-start layout-column&quot;]/span[2]</value>
+      <webElementGuid>cb4d36c1-c1c0-4321-9955-fa6bab8cb1c2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//md-card-content[@id='section_5']/div/div/div/md-grid-list/md-grid-tile/figure/a/div/div/span[2]</value>
+      <webElementGuid>82046d11-907f-4e79-bb14-fa0d56165198</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Participation'])[1]/following::span[2]</value>
+      <webElementGuid>691ee7dc-8c7d-4e95-b16a-8210d2b1d344</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Requests'])[2]/following::span[4]</value>
+      <webElementGuid>f5879611-dc92-404b-874b-1698d1266a47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top'])[1]/preceding::span[1]</value>
+      <webElementGuid>b841cacd-fd08-43d1-9665-1f21a36ee063</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Collapse All'])[1]/preceding::span[2]</value>
+      <webElementGuid>49095692-2be5-48d1-b64e-a666ae52bcf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Delegations']/parent::*</value>
+      <webElementGuid>279c67db-1507-47a6-a874-689bed2a8045</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//md-card-content[6]/div/div/div/md-grid-list/md-grid-tile/figure/a/div/div/span[2]</value>
+      <webElementGuid>d94829e4-fb4f-449e-bff7-1025845652f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Delegations' or . = 'Delegations')]</value>
+      <webElementGuid>9d688bc0-a1b3-46e5-8951-fd81bfa6badd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

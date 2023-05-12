@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Membership</name>
+   <tag></tag>
+   <elementGuidId>de3af7bd-1d86-473c-ace0-65b7f31673c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Membership&quot;] > div.layout-xs-row.layout-gt-xs-column.layout-align-xs-start-center.layout-align-start-center</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='header']/div[2]/nav/div/div/div[3]/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>234f7ee2-8abe-4dd5-a4f1-f7e10c63f121</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>layout-xs</name>
+      <type>Main</type>
+      <value>row</value>
+      <webElementGuid>2c022e3b-2bdb-4a59-9ac2-d75b36dbe8f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>layout-gt-xs</name>
+      <type>Main</type>
+      <value>column</value>
+      <webElementGuid>2ca302f9-dd97-43fb-a9ed-09796ac7ca4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>layout-align</name>
+      <type>Main</type>
+      <value>start center</value>
+      <webElementGuid>9624d8f9-5d68-4ad9-bf3b-1b47c453e527</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>layout-align-xs</name>
+      <type>Main</type>
+      <value>start center</value>
+      <webElementGuid>d96aa7a0-e091-4fc2-bbce-d69cfed4d3c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>layout-xs-row layout-gt-xs-column layout-align-xs-start-center layout-align-start-center</value>
+      <webElementGuid>81378d27-04b0-412d-9078-1f1b23897788</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>                                Membership                    </value>
+      <webElementGuid>18fbaea9-a024-4aa6-b376-c1904f3ed12a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[2]/nav[@class=&quot;header-nav az-wrapper layout-align-start-center layout-row&quot;]/div[@class=&quot;az-wrapper-canvas layout-align-start-stretch layout-row&quot;]/div[@class=&quot;az-wrapper-pagination layout-align-start-stretch layout-row&quot;]/div[@class=&quot;md-icons-before ng-scope&quot;]/a[1]/div[@class=&quot;layout-xs-row layout-gt-xs-column layout-align-xs-start-center layout-align-start-center&quot;]</value>
+      <webElementGuid>18444ab0-a63d-4660-ae06-a7b4d3ce7a0c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header']/div[2]/nav/div/div/div[3]/a/div</value>
+      <webElementGuid>f7101016-ef01-42ca-a777-3c4d97e4dc74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='General Ledger'])[1]/following::div[2]</value>
+      <webElementGuid>c3664bab-f051-4e73-9b47-9558306bcc92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::div[4]</value>
+      <webElementGuid>363a9715-fb89-4fcf-9da4-53f15004be42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Membership AR'])[1]/preceding::div[1]</value>
+      <webElementGuid>4a3c0e27-2116-4a44-be86-101a9720390b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/div</value>
+      <webElementGuid>93b1e88c-639f-45e3-a09b-2e8a92726a88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '                                Membership                    ' or . = '                                Membership                    ')]</value>
+      <webElementGuid>9f0c5b42-b2f6-4418-a5fb-cb12ec64048a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

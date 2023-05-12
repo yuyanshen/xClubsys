@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Purchase Items</name>
+   <tag></tag>
+   <elementGuidId>af1f610f-d1bf-4b01-83a0-ba6b0b96e021</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#section_1 > h4.collapse-toggle > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//md-card-content[@id='section_1']/h4/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4b633390-81e9-46d6-9864-f85a45750a06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Purchase Items</value>
+      <webElementGuid>30b90a87-e062-408f-9728-a640a48a43a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;section_1&quot;)/h4[@class=&quot;collapse-toggle&quot;]/span[1]</value>
+      <webElementGuid>4eea0ac0-734e-4f36-afd3-0590c956ddf5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//md-card-content[@id='section_1']/h4/span</value>
+      <webElementGuid>a32752a5-b629-47cb-b766-de8dc50be4d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Balance'])[1]/following::span[1]</value>
+      <webElementGuid>fd31c125-bce3-4020-9ec8-8fb32834cdad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='InitialBudgetAmount'])[1]/following::span[1]</value>
+      <webElementGuid>9f643f2b-a91c-4a4e-be2f-bd70752e0fa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product coding'])[1]/preceding::span[2]</value>
+      <webElementGuid>b509298e-4b4f-4ba2-9be3-27f0dee00c21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Purchase Items']/parent::*</value>
+      <webElementGuid>729f9313-d77e-4d14-bee3-5b33e038c7a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//md-card-content[2]/h4/span</value>
+      <webElementGuid>5bf3c9a5-5425-4cfb-b9a7-849f056ef455</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Purchase Items' or . = 'Purchase Items')]</value>
+      <webElementGuid>0609205f-a6a6-41a9-a14f-dd2f0adffbea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
