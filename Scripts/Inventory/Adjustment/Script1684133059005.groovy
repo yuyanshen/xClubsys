@@ -19,19 +19,15 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.navigateToUrl(GlobalVariable.url + '/Inventory/Management/Inventories')
+WebUI.navigateToUrl(GlobalVariable.url + '/Inventory/Management/Adjustments')
 
-WebUI.verifyElementText(findTestObject('Page_Inventory - NUSS/h2_Inventories'), 'Inventories')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Inventory - NUSS/h2_Adjustments'), 'Adjustments')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Inventory - NUSS/span_Product Name'), 'Product Name')
+WebUI.verifyElementText(findTestObject('Page_Inventory - NUSS/md-tab-item_All'), 'ALL')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Inventory - NUSS/span_Warehouse'), 'Warehouse')
+WebUI.verifyElementText(findTestObject('Page_Inventory - NUSS/md-tab-item_Draft'), 'DRAFT')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Inventory - NUSS/span_Location'), 'Location')
+WebUI.verifyElementText(findTestObject('Page_Inventory - NUSS/md-tab-item_In Process'), 'IN PROCESS')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Inventory - NUSS/span_On Hand'), 'On Hand')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Inventory - NUSS/span_Transferring'), 'Transferring')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Inventory - NUSS/span_UOM'), 'UOM')
+WebUI.verifyElementText(findTestObject('Page_Inventory - NUSS/md-tab-item_Done'), 'DONE')
 

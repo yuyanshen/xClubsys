@@ -19,19 +19,23 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.navigateToUrl(GlobalVariable.url + '/Inventory/Management/Inventories')
+WebUI.navigateToUrl(GlobalVariable.url + '/sales/sales/detailReport')
 
-WebUI.verifyElementText(findTestObject('Page_Inventory - NUSS/h2_Inventories'), 'Inventories')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Sales - NUSS/h2_Sales Details Report'), 'Sales Details Report')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Inventory - NUSS/span_Product Name'), 'Product Name')
+WebUI.verifyElementText(findTestObject('Page_Sales - NUSS/button_Export'), 'EXPORT')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Inventory - NUSS/span_Warehouse'), 'Warehouse')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Sales - NUSS/span_Member'), 'Member')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Inventory - NUSS/span_Location'), 'Location')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Sales - NUSS/span_Date Time'), 'Date Time')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Inventory - NUSS/span_On Hand'), 'On Hand')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Sales - NUSS/span_Paid By'), 'Paid By')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Inventory - NUSS/span_Transferring'), 'Transferring')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Sales - NUSS/span_Reference'), 'Reference')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Inventory - NUSS/span_UOM'), 'UOM')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Sales - NUSS/span_Gross Amt'), 'Gross Amt')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Sales - NUSS/span_Tax'), 'Tax')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Sales - NUSS/span_Bill Total'), 'Bill Total')
 

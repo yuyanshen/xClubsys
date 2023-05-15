@@ -19,19 +19,19 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.navigateToUrl(GlobalVariable.url + '/Inventory/Management/Inventories')
+WebUI.navigateToUrl(GlobalVariable.url + '/sales/promotion/preferential/product/list')
 
-WebUI.verifyElementText(findTestObject('Page_Inventory - NUSS/h2_Inventories'), 'Inventories')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Sales - NUSS/span_Image'), 'Image')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Inventory - NUSS/span_Product Name'), 'Product Name')
+WebUI.verifyElementText(findTestObject('Page_Sales - NUSS/span_Name'), 'Name')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Inventory - NUSS/span_Warehouse'), 'Warehouse')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Sales - NUSS/span_Internal Code'), 'Internal Code')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Inventory - NUSS/span_Location'), 'Location')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Sales - NUSS/span_Ean'), 'Ean')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Inventory - NUSS/span_On Hand'), 'On Hand')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Sales - NUSS/span_Price'), 'Price')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Inventory - NUSS/span_Transferring'), 'Transferring')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Sales - NUSS/span_Category'), 'Category')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Inventory - NUSS/span_UOM'), 'UOM')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Sales - NUSS/span_Outlet'), 'Outlet')
 

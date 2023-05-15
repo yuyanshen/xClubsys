@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Member ID</name>
+   <tag></tag>
+   <elementGuidId>cd5a7176-cfaa-4f2e-8a45-d1443bd642a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mCSB_1_container']/div/div[2]/md-card/div/div/table/thead/tr/th[4]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6a0ae74d-9a02-4203-b4e7-4b3d1e2b3b49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-bind</name>
+      <type>Main</type>
+      <value>$column.title</value>
+      <webElementGuid>863ad9d2-691a-4f2a-a6ba-5f7f56ada040</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>{'sort-indicator': params.settings().sortingIndicator=='span'}</value>
+      <webElementGuid>f77036f0-e16b-4378-b7d1-48c288b5877a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding</value>
+      <webElementGuid>acf04146-0bc2-4c1d-8bbc-163e876904d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Member ID</value>
+      <webElementGuid>44a33fb4-41bc-4215-8c3f-156b42a1f5f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mCSB_1_container&quot;)/div[@class=&quot;content-main ng-scope&quot;]/div[@class=&quot;content-body ng-scope&quot;]/md-card[@class=&quot;list-card _md&quot;]/div[@class=&quot;az-grid ng-scope flex-100&quot;]/div[@class=&quot;table-responsive-vertical&quot;]/table[@class=&quot;table table-hover table-striped&quot;]/thead[@class=&quot;ng-scope&quot;]/tr[@class=&quot;md-data-grid-sort-header ng-scope&quot;]/th[@class=&quot;data-grid-header&quot;]/div[@class=&quot;md-data-grid-header ng-scope&quot;]/span[@class=&quot;ng-binding&quot;]</value>
+      <webElementGuid>6fba7ddb-736c-48fa-ba2c-edbbedf46ea9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mCSB_1_container']/div/div[2]/md-card/div/div/table/thead/tr/th[4]/div/span</value>
+      <webElementGuid>00108dc2-e2d7-4ea3-97ff-48bc671ade75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date/Time'])[1]/following::span[1]</value>
+      <webElementGuid>2a73e9dd-cbeb-471b-b09a-c86586c2c662</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Receipt no.'])[1]/following::span[2]</value>
+      <webElementGuid>854d74b3-7f5e-446c-a9ce-194f0361be85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment Mode'])[1]/preceding::span[1]</value>
+      <webElementGuid>45215639-154a-4d04-a319-78d1fc79b3e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reference'])[1]/preceding::span[2]</value>
+      <webElementGuid>041498cf-a276-4964-bc90-43770a17b37a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Member ID']/parent::*</value>
+      <webElementGuid>c1a4e7ca-fdb2-40fa-b38b-d2671c16b596</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[4]/div/span</value>
+      <webElementGuid>d8e23b89-6340-449d-b770-3eab35a40922</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Member ID' or . = 'Member ID')]</value>
+      <webElementGuid>2d0ba7b0-cdba-42f3-ab68-10c032fc50eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

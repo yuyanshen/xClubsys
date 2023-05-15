@@ -19,19 +19,23 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.navigateToUrl(GlobalVariable.url + '/Inventory/Management/Inventories')
+WebUI.navigateToUrl(GlobalVariable.url + '/sales/sales/detailCollectionReport')
 
-WebUI.verifyElementText(findTestObject('Page_Inventory - NUSS/h2_Inventories'), 'Inventories')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Sales - NUSS/h2_Detail Collection Report'), 'Detail Collection Report')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Inventory - NUSS/span_Product Name'), 'Product Name')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Sales - NUSS/span_Receipt no'), 'Receipt no.')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Inventory - NUSS/span_Warehouse'), 'Warehouse')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Sales - NUSS/span_DateTime'), 'Date/Time')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Inventory - NUSS/span_Location'), 'Location')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Sales - NUSS/span_Member ID'), 'Member ID')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Inventory - NUSS/span_On Hand'), 'On Hand')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Sales - NUSS/span_Payment Mode'), 'Payment Mode')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Inventory - NUSS/span_Transferring'), 'Transferring')
+WebUI.verifyElementText(findTestObject('Page_Sales - NUSS/span_Reference'), 'Reference')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Inventory - NUSS/span_UOM'), 'UOM')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Sales - NUSS/span_Sub Total before Tax'), 'Sub Total before Tax')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Sales - NUSS/span_GST'), 'GST')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Sales - NUSS/span_Payment Amount'), 'Payment Amount')
 
