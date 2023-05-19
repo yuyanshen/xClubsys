@@ -7,14 +7,15 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@href = '/MembershipAR/AR/ReminderSetUp/List' and (text() = 'Setup' or . = 'Setup')]</value>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='mCSB_1_container']/div/div[2]/div/a[5]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = '/MembershipAR/AR/ReminderSetUp/List' and (text() = 'Setup' or . = 'Setup')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -25,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>87aa090a-4a86-4bad-9987-67f9f93bb7f6</webElementGuid>
+      <webElementGuid>ccbf887c-0cdf-497b-b7cb-33d2f926bf56</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -33,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>md-warn md-button md-ink-ripple</value>
-      <webElementGuid>8b3f76ac-4a70-48d6-af65-0a84f32df3e3</webElementGuid>
+      <webElementGuid>b0eebb4d-d127-4db8-8e8f-ebc72bac8577</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +42,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/MembershipAR/AR/ReminderSetUp/List</value>
-      <webElementGuid>d4edf30f-e659-4ba9-8b1a-44e10865f6b6</webElementGuid>
+      <webElementGuid>1044b530-eff7-4ca4-9af1-84be3d7be9c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,7 +50,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Setup</value>
-      <webElementGuid>15f73949-e7cb-47aa-9f74-03fcd9a8914e</webElementGuid>
+      <webElementGuid>33ca53cf-35f8-4b86-96c6-f8bc3b28176f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,7 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mCSB_1_container&quot;)/div[@class=&quot;content-main ng-scope&quot;]/div[@class=&quot;content-body ng-scope&quot;]/div[@class=&quot;layout-align-end-center layout-row&quot;]/a[@class=&quot;md-warn md-button md-ink-ripple&quot;]</value>
-      <webElementGuid>43cbbc59-c93b-4309-9868-94052080080c</webElementGuid>
+      <webElementGuid>dcb5d479-af5d-48c8-b526-c4149cb32f39</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -65,7 +66,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mCSB_1_container']/div/div[2]/div/a[5]</value>
-      <webElementGuid>00c61a5e-8bcb-4810-9e62-ec79c084ca6a</webElementGuid>
+      <webElementGuid>4f59c2b7-2aa1-4d23-a0ad-f5e0550953a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -73,7 +74,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Setup')]</value>
-      <webElementGuid>b1d1617b-c063-45e2-91aa-7e2dc46e5a18</webElementGuid>
+      <webElementGuid>cf2e11dc-e48e-4cca-b8c5-53cc6e3b1e0e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='History'])[1]/following::a[1]</value>
-      <webElementGuid>c67825f3-79bc-4d3d-9aae-cad09db273c0</webElementGuid>
+      <webElementGuid>d2aa73ef-cb9e-4e27-a3fb-a01482dc2b94</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Adjustment'])[1]/following::a[2]</value>
-      <webElementGuid>b5938445-e94b-4bae-b0ae-87d8f85dfd97</webElementGuid>
+      <webElementGuid>a25dbc8e-8523-43be-8d9b-f5d56262031e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[1]/preceding::a[1]</value>
-      <webElementGuid>aaefc943-a037-481d-b517-98b8ec24aaa5</webElementGuid>
+      <webElementGuid>a9ee1a77-4da2-44da-807d-b32d24b8ebee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +106,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[2]/preceding::a[1]</value>
-      <webElementGuid>2e91af51-c08c-4ea9-b798-f114c2042c41</webElementGuid>
+      <webElementGuid>ca38e08b-2fa8-40ad-9f9a-6736de0eb5e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,7 +114,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Setup']/parent::*</value>
-      <webElementGuid>f0f724a4-61da-427c-a03b-db1af83d6620</webElementGuid>
+      <webElementGuid>5169556c-c75f-43e2-b554-b256ecb0c46c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -121,7 +122,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/MembershipAR/AR/ReminderSetUp/List')]</value>
-      <webElementGuid>659b01eb-ebf5-424c-8579-2db08b7d59a2</webElementGuid>
+      <webElementGuid>805d7ffa-0e01-4a47-b11f-ba6ed29073b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -129,7 +130,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[5]</value>
-      <webElementGuid>d8d488a3-dde7-4440-938a-bb3c3b258b5b</webElementGuid>
+      <webElementGuid>b38d2915-d952-4d13-b16f-149d6e469254</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -137,6 +138,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/MembershipAR/AR/ReminderSetUp/List' and (text() = 'Setup' or . = 'Setup')]</value>
-      <webElementGuid>2125a5cc-09f8-4bef-857f-98e3e4545c4d</webElementGuid>
+      <webElementGuid>63460c29-aa54-4e57-ac7c-26788d46fdb8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -7,13 +7,18 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='mCSB_1_container']/div/div[2]/div/a[5]</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = 'MembershipAR/AR/PayforReminder/Create' and (text() = 'Pay for reminder' or . = 'Pay for reminder')]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -21,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>1c4db165-4d08-416b-b610-cc0f448f6bdc</webElementGuid>
+      <webElementGuid>d546a164-0584-4a07-b1e7-552644722342</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>md-warn md-button ng-scope md-ink-ripple</value>
-      <webElementGuid>9f193136-fb08-4508-87d9-08d61fe74642</webElementGuid>
+      <webElementGuid>0cfe6df1-418a-4ea5-8c4e-ba6426a3f5fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +42,7 @@
       <name>href</name>
       <type>Main</type>
       <value>MembershipAR/AR/PayforReminder/Create</value>
-      <webElementGuid>204bd2aa-ab66-4408-bd1b-69a3a9cc7887</webElementGuid>
+      <webElementGuid>7834fcc1-0d99-4e1e-a0dd-8935b5018d01</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +50,7 @@
       <name>ng-if</name>
       <type>Main</type>
       <value>vm.ARuserRight.HasPaymentPayForReminderRight</value>
-      <webElementGuid>99ed32ea-39a7-46f0-aa2e-5e5105619e3a</webElementGuid>
+      <webElementGuid>a3841f8b-72fc-4905-aaf3-ac5c52cec0bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +58,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Pay for reminder</value>
-      <webElementGuid>12798c10-53ef-49c8-9731-43e08a14b5dd</webElementGuid>
+      <webElementGuid>8b2999ab-1cd6-4a04-9976-9d8a264d4f66</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +66,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mCSB_1_container&quot;)/div[@class=&quot;content-main ng-scope&quot;]/div[@class=&quot;content-body ng-scope&quot;]/div[@class=&quot;layout-align-end-center layout-row&quot;]/a[@class=&quot;md-warn md-button ng-scope md-ink-ripple&quot;]</value>
-      <webElementGuid>66c03a92-6cc3-4913-ba7c-11fc7c44d792</webElementGuid>
+      <webElementGuid>ddd462d3-1269-4ca0-bf7f-12679a07ebe3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +74,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mCSB_1_container']/div/div[2]/div/a[5]</value>
-      <webElementGuid>0ec55a9d-bd04-4044-812f-59bdd0a21a58</webElementGuid>
+      <webElementGuid>aee11ec5-04c9-4ca1-a528-8b891eeec0fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +82,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Pay for reminder')]</value>
-      <webElementGuid>6af5d15c-e097-4662-9228-0c614bb6e909</webElementGuid>
+      <webElementGuid>2c372299-bad5-44fd-80b0-3602784299ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='New Payment'])[1]/following::a[1]</value>
-      <webElementGuid>5afd9b06-6277-4a0e-8527-8d1a1c7ee6b1</webElementGuid>
+      <webElementGuid>a96fd073-0be3-4fa1-9dcf-7cbf2ec0a4af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Batch Import'])[1]/following::a[2]</value>
-      <webElementGuid>7fa0d688-8c8e-407c-b323-fc8acb2f181a</webElementGuid>
+      <webElementGuid>fb1891e8-450f-4bc1-9d7f-d998882f5032</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +106,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Rollback Payment'])[1]/preceding::a[1]</value>
-      <webElementGuid>2bd859fe-11c5-4bdf-86e4-627ff7df2714</webElementGuid>
+      <webElementGuid>f7a7b6a3-42d4-46e9-b2e4-1c8105751b6e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +114,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[1]/preceding::a[2]</value>
-      <webElementGuid>a6065ca9-5ab8-488f-9f92-f3ce2ec05abf</webElementGuid>
+      <webElementGuid>af50d892-8842-4095-a9cb-2980161452ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +122,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Pay for reminder']/parent::*</value>
-      <webElementGuid>1037abc3-2bc9-4d1f-83c0-d5098f7b8c7c</webElementGuid>
+      <webElementGuid>66408ab5-8d55-4ec3-a7d5-8cb5e0262744</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +130,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'MembershipAR/AR/PayforReminder/Create')]</value>
-      <webElementGuid>4b7b696a-f595-4e2b-98d6-43dee79aa475</webElementGuid>
+      <webElementGuid>711f179b-0b5d-4303-aca0-c4ff271b3e0e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +138,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[5]</value>
-      <webElementGuid>e13aef4f-f2eb-4d14-a034-67371a1f29e2</webElementGuid>
+      <webElementGuid>be7934ac-8d7f-4521-809a-6110f8a88636</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +146,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'MembershipAR/AR/PayforReminder/Create' and (text() = 'Pay for reminder' or . = 'Pay for reminder')]</value>
-      <webElementGuid>f1cb37ad-ce9a-49d3-ac7b-a6058edee75f</webElementGuid>
+      <webElementGuid>95b553f6-9a77-4fbf-8f74-18ed84217416</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

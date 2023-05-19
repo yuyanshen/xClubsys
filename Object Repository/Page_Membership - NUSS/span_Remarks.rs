@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Remarks</name>
+   <tag></tag>
+   <elementGuidId>86429f94-d2d0-4493-b353-22b3629ec956</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//md-tab-content[@id='tab-content-37']/div/md-card/md-table-container/table/thead/tr/th[8]/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[(text() = 'Remarks' or . = 'Remarks')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c3ada160-6b15-4c61-a3a4-11db16005faa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Remarks</value>
+      <webElementGuid>ad19d24f-57c1-4e5c-beda-0f8570be687a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab-content-37&quot;)/div[@class=&quot;ng-scope ng-isolate-scope&quot;]/md-card[@class=&quot;az-data-grid ng-scope _md&quot;]/md-table-container[1]/table[@class=&quot;md-row-hover md-row-striped md-row-readonly ng-pristine ng-untouched ng-valid md-table ng-scope ng-isolate-scope ng-not-empty&quot;]/thead[@class=&quot;md-head ng-isolate-scope&quot;]/tr[@class=&quot;md-row&quot;]/th[@class=&quot;undefined md-column ng-isolate-scope md-sort&quot;]/span[1]</value>
+      <webElementGuid>045b029a-f7e2-4873-a2ac-d80ed4bded85</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//md-tab-content[@id='tab-content-37']/div/md-card/md-table-container/table/thead/tr/th[8]/span</value>
+      <webElementGuid>f4c571b3-0968-4c07-be83-871bfedd78d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction Date'])[1]/following::span[1]</value>
+      <webElementGuid>af19cd2c-7384-4ce1-bf2d-88d4be9c2e86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Card No.'])[2]/following::span[2]</value>
+      <webElementGuid>73f2db31-b23d-4921-b8a4-f697697a695a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Latest Update Date'])[1]/preceding::span[1]</value>
+      <webElementGuid>97273694-b0df-4ad9-8c0c-579f4707c8f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Page:'])[1]/preceding::span[2]</value>
+      <webElementGuid>c157f16b-0b88-4cec-b836-3a2db6c590fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Remarks']/parent::*</value>
+      <webElementGuid>28805486-29f3-40bd-8b65-08a0c4a75097</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[8]/span</value>
+      <webElementGuid>f0f7b039-912a-4835-a4e8-a6dd8ddfaa18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Remarks' or . = 'Remarks')]</value>
+      <webElementGuid>bcf2b21e-3bc3-4f9a-81ac-b24b1914da8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privilege Days'])[1]/following::span[2]</value>
+      <webElementGuid>e83cab76-9ba9-45f6-bd54-914e6b956024</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

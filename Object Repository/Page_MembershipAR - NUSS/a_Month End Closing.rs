@@ -10,23 +10,23 @@
          <value>a.md-warn.md-button.ng-scope.md-ink-ripple</value>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value>//a[@href = 'MembershipAR/AR/SOA/MonthEndClosing' and (text() = 'Month End Closing' or . = 'Month End Closing')]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='mCSB_1_container']/div/div[2]/div/a</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = 'MembershipAR/AR/SOA/MonthEndClosing' and (text() = 'Month End Closing' or . = 'Month End Closing')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>30d02bd8-feeb-49e3-bf9f-aaa9bfb85b8d</webElementGuid>
+      <webElementGuid>74b5cbd3-1022-44ee-b49e-1503265ba264</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>md-warn md-button ng-scope md-ink-ripple</value>
-      <webElementGuid>4ced53d2-2c54-4e8a-af69-8653c539a92b</webElementGuid>
+      <webElementGuid>53774453-cd77-453e-9620-a8fa3d84a2e9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +42,7 @@
       <name>ng-if</name>
       <type>Main</type>
       <value>vm.ARuserRight.HasMonthEndClosingRight</value>
-      <webElementGuid>4a81d61a-28fc-4364-8075-94fd4d7b3125</webElementGuid>
+      <webElementGuid>8409c078-57c2-41dc-a1e7-625c0e652388</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
       <name>href</name>
       <type>Main</type>
       <value>MembershipAR/AR/SOA/MonthEndClosing</value>
-      <webElementGuid>f5d71290-4e2b-4e4e-9bcf-95a49f499938</webElementGuid>
+      <webElementGuid>0f5d48ee-f400-4334-ab02-ec2dfb649b19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Month End Closing</value>
-      <webElementGuid>33d1e451-d38f-40af-a3c4-4cf001435fd9</webElementGuid>
+      <webElementGuid>aae2e964-c35b-4c09-93eb-07cd86759599</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mCSB_1_container&quot;)/div[@class=&quot;content-main ng-scope&quot;]/div[@class=&quot;content-body ng-scope&quot;]/div[@class=&quot;layout-align-end-center layout-row&quot;]/a[@class=&quot;md-warn md-button ng-scope md-ink-ripple&quot;]</value>
-      <webElementGuid>bf26d46c-200d-4bd2-a449-b8ea5c6d6a05</webElementGuid>
+      <webElementGuid>bd834478-dbb5-4650-a654-878d2b43d6d9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mCSB_1_container']/div/div[2]/div/a</value>
-      <webElementGuid>6a923eb9-4501-4b3b-bb54-98644ac0e768</webElementGuid>
+      <webElementGuid>75ad6633-095e-4c9a-b3b6-4d909e3ed979</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Month End Closing')]</value>
-      <webElementGuid>56311d05-70df-4064-8294-d8cba3a567c2</webElementGuid>
+      <webElementGuid>2b469d59-bc52-42c5-b0b4-f3772ea04976</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Generate Data'])[1]/following::a[1]</value>
-      <webElementGuid>0eda37bd-f295-446b-9fe8-e3bef288c5e5</webElementGuid>
+      <webElementGuid>e73d07ff-53c4-4bd2-8373-f658ddc9cfbb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Statement'])[1]/following::a[1]</value>
-      <webElementGuid>278a8ee3-0c45-48dc-8cce-b05eef9d9376</webElementGuid>
+      <webElementGuid>1c3d9079-941a-495d-9cce-bf0c955734d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Closed Month'])[2]/preceding::a[1]</value>
-      <webElementGuid>25838c2c-6e82-4a56-bf10-5eabb8f19391</webElementGuid>
+      <webElementGuid>730e0be5-61c1-48d5-949c-2b811b0451d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,7 +114,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Closed Month is required.'])[1]/preceding::a[1]</value>
-      <webElementGuid>82c8a33a-0011-45c5-a612-6db6c67af584</webElementGuid>
+      <webElementGuid>d17fb532-ed10-478c-a6af-6cee1835b659</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -122,7 +122,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Month End Closing']/parent::*</value>
-      <webElementGuid>299bf565-fb5b-4ff8-af71-656fd78b4a4b</webElementGuid>
+      <webElementGuid>7da05229-c71a-4b2e-b62b-111905a3ca0e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -130,7 +130,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'MembershipAR/AR/SOA/MonthEndClosing')]</value>
-      <webElementGuid>036d3e54-1699-4d2a-b170-0de71fb6e014</webElementGuid>
+      <webElementGuid>fa9e1a24-516e-464b-bcd2-8f8cd9af8b94</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -138,7 +138,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/a</value>
-      <webElementGuid>f775b3f4-80fa-4356-bb42-9d10df150e2b</webElementGuid>
+      <webElementGuid>1d559ffe-c7fa-4d60-87a3-b0f4678412f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -146,6 +146,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'MembershipAR/AR/SOA/MonthEndClosing' and (text() = 'Month End Closing' or . = 'Month End Closing')]</value>
-      <webElementGuid>be337051-50e9-40e9-a31d-fc4d19f78ec5</webElementGuid>
+      <webElementGuid>3bcbccfb-625e-4d55-8a61-4b97d09bdf7a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

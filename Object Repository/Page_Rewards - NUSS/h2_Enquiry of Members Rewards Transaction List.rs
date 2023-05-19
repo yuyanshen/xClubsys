@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Enquiry of Members Rewards Transaction List</name>
+   <tag></tag>
+   <elementGuidId>3e9d7e1b-3adb-4c10-94b8-7f11ad4fd004</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2.ng-binding</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='top']/div[2]/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>c8c73ebc-e1b4-49fc-94a7-d4074cb74dc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-bind</name>
+      <type>Main</type>
+      <value>header.title</value>
+      <webElementGuid>7812b099-eda4-4b9b-8aa8-e755a1e6662a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding</value>
+      <webElementGuid>60e492fe-6a8e-48b0-af60-1c3212c8ce17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enquiry of Members Rewards Transaction List</value>
+      <webElementGuid>7325f579-5950-44f2-9dff-e9e7c3afcce1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top&quot;)/div[@class=&quot;content-title ng-scope layout-align-start-center layout-row&quot;]/h2[@class=&quot;ng-binding&quot;]</value>
+      <webElementGuid>1ea753a8-d6c0-456b-98cd-9db58f50a8fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='top']/div[2]/h2</value>
+      <webElementGuid>8f23d0b1-eec0-4863-a450-4cdbd87110be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rewards Transaction'])[2]/following::h2[1]</value>
+      <webElementGuid>5b45479a-c444-4783-9bd4-e6ecbd5bde7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rewards'])[5]/following::h2[1]</value>
+      <webElementGuid>ba4e6ef8-abb9-4873-b09f-d2e2b8188a86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Rewards Transaction'])[1]/preceding::h2[1]</value>
+      <webElementGuid>7479df32-3973-4fa8-8180-5fea7bf6a8a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[1]/preceding::h2[1]</value>
+      <webElementGuid>2cc7da91-0e85-483e-b67d-35d45737d0f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Enquiry of Members Rewards Transaction List']/parent::*</value>
+      <webElementGuid>244860c6-fe93-4bb7-a4b2-310e2605b35e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>d258a3b1-2e6b-4691-8cf6-23b6bca13a8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Enquiry of Members Rewards Transaction List' or . = 'Enquiry of Members Rewards Transaction List')]</value>
+      <webElementGuid>390ab936-812a-484b-888a-964c2e003f24</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

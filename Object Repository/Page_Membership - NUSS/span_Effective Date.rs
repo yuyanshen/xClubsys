@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Effective Date</name>
+   <tag></tag>
+   <elementGuidId>08f3443d-a717-41de-85aa-b9198c044fc2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mCSB_1_container']/div/div[2]/form/md-card/md-card-content[2]/md-card/md-table-container/table/thead/tr/th[7]/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Effective Date' or . = 'Effective Date')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>543842aa-ee1f-4fad-a191-add8e52373ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Effective Date</value>
+      <webElementGuid>f4ba6c7b-8f57-4b35-aa31-8109f7b7196b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mCSB_1_container&quot;)/div[@class=&quot;content-main ng-scope&quot;]/div[@class=&quot;content-body ng-scope&quot;]/form[@class=&quot;form-card ng-pristine ng-valid ng-valid-mindate ng-valid-maxdate ng-valid-filtered ng-valid-valid&quot;]/md-card[@class=&quot;_md&quot;]/md-card-content[@class=&quot;md-card-content-no-title&quot;]/md-card[@class=&quot;az-data-grid ng-scope _md&quot;]/md-table-container[1]/table[@class=&quot;md-row-hover md-row-striped md-row-readonly ng-pristine ng-untouched ng-valid md-table ng-scope ng-isolate-scope ng-not-empty md-row-select&quot;]/thead[@class=&quot;md-head ng-isolate-scope&quot;]/tr[@class=&quot;md-row&quot;]/th[@class=&quot;undefined md-column ng-isolate-scope md-sort&quot;]/span[1]</value>
+      <webElementGuid>f3dce822-11ff-4cca-ad8d-63c0df0a63ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mCSB_1_container']/div/div[2]/form/md-card/md-card-content[2]/md-card/md-table-container/table/thead/tr/th[7]/span</value>
+      <webElementGuid>2af1ebe6-c77b-4dcc-b30b-101638f419bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Opt For Physical SOA'])[1]/following::span[1]</value>
+      <webElementGuid>a0e3a100-bd02-4f3a-9b1c-a35020329756</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Membership Status'])[4]/following::span[2]</value>
+      <webElementGuid>57dbec6b-05d9-4ef8-a15b-119208295286</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expiry Date'])[1]/preceding::span[1]</value>
+      <webElementGuid>1279008e-c8b5-43b4-9893-e297f88a16af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Password'])[2]/preceding::span[2]</value>
+      <webElementGuid>5b74626d-4e45-4bf0-a7cf-7ade7cb8ecbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Effective Date']/parent::*</value>
+      <webElementGuid>ea889311-a2d3-4ca2-b345-fd59ec875064</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[7]/span</value>
+      <webElementGuid>ebe4c7cb-0691-43e4-944b-c4b704be9533</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Effective Date' or . = 'Effective Date')]</value>
+      <webElementGuid>35a0c8e0-a12e-4997-82d8-1c515ac96f65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//md-tab-content[@id='tab-content-37']/div/md-card/md-table-container/table/thead/tr/th[10]/span</value>
+      <webElementGuid>8c95ed2c-a462-4c87-8c06-0ee4c823ec6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date of Request'])[1]/following::span[1]</value>
+      <webElementGuid>5d425f69-1ba0-4033-b74e-d8cf53d719c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Outstanding Balance'])[1]/following::span[2]</value>
+      <webElementGuid>24918b8f-dba1-4266-a021-f67311795f45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Latest Update Date'])[1]/preceding::span[1]</value>
+      <webElementGuid>d0b172e4-f864-4ee5-aed4-b669cb2b29f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Page:'])[1]/preceding::span[2]</value>
+      <webElementGuid>1da01966-4392-4d24-9915-91035b133d5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[10]/span</value>
+      <webElementGuid>9796a1b5-95b6-42e1-bd39-f9f31f5a1841</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//md-tab-content[@id='tab-content-37']/div/md-card/md-table-container/table/thead/tr/th[5]/span</value>
+      <webElementGuid>d7cdcaa7-1e82-422e-87aa-da6b9bcf49dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction Date'])[1]/following::span[1]</value>
+      <webElementGuid>0743c071-e366-4ba0-b77a-4249cdd168a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To Member (ID / Name)'])[1]/following::span[2]</value>
+      <webElementGuid>2bdbb9c1-4067-4a95-9139-38538e798532</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transfer Fee'])[1]/preceding::span[1]</value>
+      <webElementGuid>dc70886b-593d-4a0a-9871-bf110cc0b815</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin Fee'])[1]/preceding::span[2]</value>
+      <webElementGuid>50623d86-efd9-4580-807b-debb325c85fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[5]/span</value>
+      <webElementGuid>3f68ced2-746d-45a0-bab7-6d791eab343a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

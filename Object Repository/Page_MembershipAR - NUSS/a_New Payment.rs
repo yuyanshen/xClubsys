@@ -7,13 +7,18 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='mCSB_1_container']/div/div[2]/div/a[4]</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = 'MembershipAR/AR/PaymentHistory/Create' and (text() = 'New Payment' or . = 'New Payment')]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -21,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>6afe9036-f9c3-434d-aaf2-0f8b24137ed8</webElementGuid>
+      <webElementGuid>3e09d668-fd82-43d3-9f87-988eac73c3ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>md-warn md-button ng-scope md-ink-ripple</value>
-      <webElementGuid>74d394b7-ff45-4ce4-9b88-f1fc32ad46b9</webElementGuid>
+      <webElementGuid>3ca76c3a-fb0c-48a7-90b9-989f4b7599da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +42,7 @@
       <name>href</name>
       <type>Main</type>
       <value>MembershipAR/AR/PaymentHistory/Create</value>
-      <webElementGuid>0802c728-3d05-409a-8c13-f2ce171c40c0</webElementGuid>
+      <webElementGuid>2778968f-6429-4883-9c68-00ed19e244a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +50,7 @@
       <name>ng-if</name>
       <type>Main</type>
       <value>vm.ARuserRight.HasPaymentCreateRight</value>
-      <webElementGuid>553f6b90-9cd7-4962-8ee4-d9433eb141a4</webElementGuid>
+      <webElementGuid>0acc491e-bc53-4336-bdbc-5892a6e48bde</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +58,7 @@
       <name>text</name>
       <type>Main</type>
       <value>New Payment</value>
-      <webElementGuid>f25f6bc7-7ee7-4e19-b15e-72355b5dc39f</webElementGuid>
+      <webElementGuid>6501d862-35e6-492b-9c65-b84bb9982096</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +66,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mCSB_1_container&quot;)/div[@class=&quot;content-main ng-scope&quot;]/div[@class=&quot;content-body ng-scope&quot;]/div[@class=&quot;layout-align-end-center layout-row&quot;]/a[@class=&quot;md-warn md-button ng-scope md-ink-ripple&quot;]</value>
-      <webElementGuid>ca718ebe-c155-45aa-ac44-80df1f849fdc</webElementGuid>
+      <webElementGuid>a9ad58e8-c78a-43c4-b652-9422fc45864b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +74,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mCSB_1_container']/div/div[2]/div/a[4]</value>
-      <webElementGuid>60abb497-2717-47f0-94ec-59d3aff95582</webElementGuid>
+      <webElementGuid>fc4edc84-884e-4e3c-a394-904db49729ec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +82,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'New Payment')]</value>
-      <webElementGuid>f2dbdd4a-aae1-40ce-9e59-99b5dcdbd7df</webElementGuid>
+      <webElementGuid>12a3218d-cbf9-433b-a71b-613f2360963f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Batch Import'])[1]/following::a[1]</value>
-      <webElementGuid>3b665775-bb54-4aa5-8c0b-7575a21ab86a</webElementGuid>
+      <webElementGuid>7da6c119-fa61-4323-856f-b78e91f8f362</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='DBS Batch Import'])[1]/following::a[2]</value>
-      <webElementGuid>79332b83-5bb9-4bb0-9d93-7ee713c1e387</webElementGuid>
+      <webElementGuid>40c85ee8-4de2-414d-ad16-212211f8a1a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +106,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pay for reminder'])[1]/preceding::a[1]</value>
-      <webElementGuid>2e8e5b2c-12e0-4200-b340-a8ef4a9a4633</webElementGuid>
+      <webElementGuid>9e5dd461-260c-45ef-bb92-1c97d2a7bdbc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +114,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Rollback Payment'])[1]/preceding::a[2]</value>
-      <webElementGuid>b5dc99ee-9455-47e8-9a3f-2afca0ba6c7f</webElementGuid>
+      <webElementGuid>e8459f51-c03d-4192-861e-d33f880ed5b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +122,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='New Payment']/parent::*</value>
-      <webElementGuid>a84ada74-f68a-4894-8d3c-06250fe847d0</webElementGuid>
+      <webElementGuid>92a5caf0-e249-4912-b396-d502f04a40ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +130,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'MembershipAR/AR/PaymentHistory/Create')]</value>
-      <webElementGuid>c9296ba6-2064-4eec-8591-477438de3516</webElementGuid>
+      <webElementGuid>9e95be33-42a0-4850-b5bd-bacf5502a422</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +138,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[4]</value>
-      <webElementGuid>c537e28f-ae54-4ad7-aec9-f67143621dc7</webElementGuid>
+      <webElementGuid>90fd0960-98dc-48d5-be6c-0f68b2fa8580</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +146,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'MembershipAR/AR/PaymentHistory/Create' and (text() = 'New Payment' or . = 'New Payment')]</value>
-      <webElementGuid>7efc6d6b-2fa1-4413-b989-8b5431c86d26</webElementGuid>
+      <webElementGuid>37ee7977-d2a7-4b9f-85f2-8ace82eeb754</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

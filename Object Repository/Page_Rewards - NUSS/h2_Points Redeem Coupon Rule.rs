@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Points Redeem Coupon Rule</name>
+   <tag></tag>
+   <elementGuidId>8e0e409c-bf06-4d2d-854f-748c80b6d382</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2.ng-binding</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='top']/div[2]/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>0189149f-1647-4bae-95ea-a12c1dc8ed6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-bind</name>
+      <type>Main</type>
+      <value>header.title</value>
+      <webElementGuid>aa8f3cc3-d02b-4138-9c9c-a4bd8ed1d6c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding</value>
+      <webElementGuid>75d0ee63-8d5d-4594-b07c-cd5a0021b55f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Points Redeem Coupon Rule</value>
+      <webElementGuid>4698a37a-70fa-482d-a629-ac90a03dcfc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top&quot;)/div[@class=&quot;content-title ng-scope layout-align-start-center layout-row&quot;]/h2[@class=&quot;ng-binding&quot;]</value>
+      <webElementGuid>40de2740-95fd-482e-87f5-fe0a12f1838a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='top']/div[2]/h2</value>
+      <webElementGuid>e2924b95-cbd6-4a59-9306-31c8325cb5bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Coupon'])[2]/following::h2[1]</value>
+      <webElementGuid>339bf42d-6129-4c10-a7aa-96fdce1b75fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Redeem'])[2]/following::h2[1]</value>
+      <webElementGuid>08084846-c97e-4339-8c96-d7c5aae87188</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Points Redeem Coupon Rule'])[1]/preceding::h2[1]</value>
+      <webElementGuid>4df9cae7-a696-40f7-89fb-77095e5a869a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Points'])[1]/preceding::h2[2]</value>
+      <webElementGuid>fdc3382d-a8f2-4398-b15e-7e22ce1750cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Points Redeem Coupon Rule']/parent::*</value>
+      <webElementGuid>40318573-a7e9-4255-8943-69abf4336d54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>4973ebdd-bc93-4c63-99cd-63551020e0f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Points Redeem Coupon Rule' or . = 'Points Redeem Coupon Rule')]</value>
+      <webElementGuid>16d55d90-4231-4a36-a87e-b16aeb6ee5d6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

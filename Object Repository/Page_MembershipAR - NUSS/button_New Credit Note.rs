@@ -7,10 +7,19 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[25]</value>
+         <value>(//button[@type='button'])[26]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = '
+            New Credit Note
+        ' or . = '
+            New Credit Note
+        ')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -21,7 +30,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>69ffe861-1645-4b66-b31f-deb661c9f68e</webElementGuid>
+      <webElementGuid>abe5159a-3d35-431c-a0ef-3c4648122af9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>md-warn md-button md-ink-ripple</value>
-      <webElementGuid>1082bc7d-0ee8-4285-a577-5d6ccc3cc491</webElementGuid>
+      <webElementGuid>335a1474-5ad0-4e56-aad5-a34fbe8f3f3a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>9099e9bf-0519-45b8-be9a-5d0e2b08f3e8</webElementGuid>
+      <webElementGuid>002504db-8985-41ec-a974-4132206308e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +54,7 @@
       <name>ng-click</name>
       <type>Main</type>
       <value>vm.routeTo('/MembershipAR/AR/CreditNote/Create?invoiceType=1&amp;edit=1')</value>
-      <webElementGuid>3718c857-15c0-4ebd-9599-0326426d014e</webElementGuid>
+      <webElementGuid>3c3ea0d0-eb6d-4cfb-bbb0-d115a853487f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +64,7 @@
       <value>
             New Credit Note
         </value>
-      <webElementGuid>8213f45d-f763-427b-8730-945b481fe33b</webElementGuid>
+      <webElementGuid>4b699b6a-c64d-42e6-8369-3a44ca3b01b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,15 +72,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mCSB_1_container&quot;)/div[@class=&quot;content-main ng-scope&quot;]/div[@class=&quot;content-body ng-scope&quot;]/div[@class=&quot;ng-scope layout-align-end-center layout-row&quot;]/button[@class=&quot;md-warn md-button md-ink-ripple&quot;]</value>
-      <webElementGuid>07065414-97ce-436b-87ad-4d28539ca33d</webElementGuid>
+      <webElementGuid>0cfb58f5-4af0-4098-acfc-590f30ccedb9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[25]</value>
-      <webElementGuid>174ab850-ed71-4197-af52-9b26058a885e</webElementGuid>
+      <value>(//button[@type='button'])[26]</value>
+      <webElementGuid>19dad811-393f-4166-8c9d-661321190884</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +88,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mCSB_1_container']/div/div[2]/div/button[2]</value>
-      <webElementGuid>342429fb-73ca-4e23-8230-b86890f8fb6f</webElementGuid>
+      <webElementGuid>3bb65f6d-1fa9-4b26-b56e-8ffff64fed35</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +96,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Batch Import'])[1]/following::button[1]</value>
-      <webElementGuid>c977b016-ba7e-448b-b8b5-785456f87ade</webElementGuid>
+      <webElementGuid>2b417541-b390-4766-8a28-8b3ae31c0d02</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +104,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Credit Note List'])[1]/following::button[2]</value>
-      <webElementGuid>2b3696c3-28e6-4783-a51b-e26812703097</webElementGuid>
+      <webElementGuid>0ca0378c-428c-448f-9df7-6f7ddddb64bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +112,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Rollback Credit Note'])[1]/preceding::button[1]</value>
-      <webElementGuid>bddf8e94-9069-41c2-b51d-fcb679c425b9</webElementGuid>
+      <webElementGuid>8cfe72d5-6845-4d2c-a420-8cd9f8da3649</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +120,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[1]/preceding::button[2]</value>
-      <webElementGuid>136fa6c5-b83b-4851-a95c-20554fe99439</webElementGuid>
+      <webElementGuid>689e5df3-a8ec-4671-8cc2-e538ab796a03</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +128,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='New Credit Note']/parent::*</value>
-      <webElementGuid>699cbc14-76f5-4da8-ba8d-5860cebb8d12</webElementGuid>
+      <webElementGuid>2ba58e32-0bde-4aed-8eac-1c7bd57b6043</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +136,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/button[2]</value>
-      <webElementGuid>3116fd76-59d4-4229-a0fe-e65d2c8837ca</webElementGuid>
+      <webElementGuid>f4390257-67cd-4f0d-96ec-26e5f32aa781</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -139,6 +148,14 @@
         ' or . = '
             New Credit Note
         ')]</value>
-      <webElementGuid>6b7b0ef6-2553-4e54-a0c6-642752ab187a</webElementGuid>
+      <webElementGuid>cb865ef1-37d7-488e-9815-8fbb30a52aa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[25]</value>
+      <webElementGuid>174ab850-ed71-4197-af52-9b26058a885e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

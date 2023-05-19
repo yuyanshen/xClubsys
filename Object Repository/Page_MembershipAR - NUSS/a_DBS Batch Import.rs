@@ -7,13 +7,18 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='mCSB_1_container']/div/div[2]/div/a[2]</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = 'MembershipAR/AR/Payment/ImportTxt' and (text() = 'DBS Batch Import' or . = 'DBS Batch Import')]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -21,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>a9af6309-c12d-4e0a-9b5c-f56c5914a0b7</webElementGuid>
+      <webElementGuid>eff9bfda-24e3-4be5-9222-f084f782a8a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>md-warn md-button ng-scope md-ink-ripple</value>
-      <webElementGuid>d72cc022-1d97-4f27-a10f-e3b60b5c0b9d</webElementGuid>
+      <webElementGuid>03fdfaab-6128-4424-8849-9e222858f08e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +42,7 @@
       <name>href</name>
       <type>Main</type>
       <value>MembershipAR/AR/Payment/ImportTxt</value>
-      <webElementGuid>9aeed925-c2a0-4392-9dca-2fc062f68402</webElementGuid>
+      <webElementGuid>29bdb55a-fe7c-4d10-8d8e-e55e9a37132b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +50,7 @@
       <name>ng-if</name>
       <type>Main</type>
       <value>vm.ARuserRight.HasPaymentDBSBatchImportRight</value>
-      <webElementGuid>9be908b2-d5c7-4927-b816-341431897fdc</webElementGuid>
+      <webElementGuid>36faf6ba-fe60-4d87-b4f0-7b79d4d0826c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +58,7 @@
       <name>text</name>
       <type>Main</type>
       <value>DBS Batch Import</value>
-      <webElementGuid>204b6ffb-2d5d-43c4-8cba-71319583fb21</webElementGuid>
+      <webElementGuid>eed092cf-ba7b-489f-8b63-d69ac225ab85</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +66,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mCSB_1_container&quot;)/div[@class=&quot;content-main ng-scope&quot;]/div[@class=&quot;content-body ng-scope&quot;]/div[@class=&quot;layout-align-end-center layout-row&quot;]/a[@class=&quot;md-warn md-button ng-scope md-ink-ripple&quot;]</value>
-      <webElementGuid>ef1f4714-2890-4434-9789-8ed36a22bcd9</webElementGuid>
+      <webElementGuid>440354ba-533a-4f24-aa34-40242c3f5d9b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +74,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mCSB_1_container']/div/div[2]/div/a[2]</value>
-      <webElementGuid>59cfce53-1d94-47aa-9294-3723c0a89546</webElementGuid>
+      <webElementGuid>61e18807-8c12-4f71-af1e-d3b77031cd2b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +82,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'DBS Batch Import')]</value>
-      <webElementGuid>b9eb25b5-0158-4441-ab6d-ff64aa612d2b</webElementGuid>
+      <webElementGuid>695a924b-4d22-4299-8c71-b18bb20bc73d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cheque Batch Import'])[1]/following::a[1]</value>
-      <webElementGuid>20ef2af8-bcc8-4d2c-990d-2c0bc3434ef8</webElementGuid>
+      <webElementGuid>07f13273-c345-411f-9535-7d03a62b886c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment History List'])[1]/following::a[2]</value>
-      <webElementGuid>e469cd44-a42e-4b35-a654-1c908f3b3088</webElementGuid>
+      <webElementGuid>fbe4d984-fedc-461e-813f-c8ad80f6fd64</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +106,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Batch Import'])[1]/preceding::a[1]</value>
-      <webElementGuid>a8de0b33-9069-4a26-b8ec-1a4baf25bc48</webElementGuid>
+      <webElementGuid>10bc01d9-0320-421f-8e97-d7ebc589b6f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +114,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='New Payment'])[1]/preceding::a[2]</value>
-      <webElementGuid>2716bd10-64c1-476e-ab8e-c7d00d8747f8</webElementGuid>
+      <webElementGuid>ef826dee-4df7-4a04-a24e-728beac0084e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +122,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='DBS Batch Import']/parent::*</value>
-      <webElementGuid>0d6579c7-df3e-4a8c-89e0-bad22aaece6c</webElementGuid>
+      <webElementGuid>2b05256d-06c2-4068-b326-b29d31a3d6b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +130,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'MembershipAR/AR/Payment/ImportTxt')]</value>
-      <webElementGuid>8b996adf-cfdf-4f47-8865-b83523a68295</webElementGuid>
+      <webElementGuid>e6dad407-b81c-455d-bad9-f68d997ab4d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +138,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/a[2]</value>
-      <webElementGuid>14070489-7c37-4761-b127-b6d3e6c2e113</webElementGuid>
+      <webElementGuid>94342816-8b9f-4222-9ee9-4705ae1600c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +146,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'MembershipAR/AR/Payment/ImportTxt' and (text() = 'DBS Batch Import' or . = 'DBS Batch Import')]</value>
-      <webElementGuid>fb07967e-f4d2-46f6-a694-3bb2f6e63c06</webElementGuid>
+      <webElementGuid>5bdf859a-294c-4157-82ef-4cf8c7a7e955</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

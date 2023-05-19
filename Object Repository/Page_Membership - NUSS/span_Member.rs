@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Member</name>
+   <tag></tag>
+   <elementGuidId>60ac6f90-d413-45f4-82c5-95e21e56c368</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h4.collapse-toggle > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//md-card-content[@id='section_0']/h4/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>47722d7b-e379-41d8-b43a-75913caf668a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Member</value>
+      <webElementGuid>46024a83-8599-4a15-9b03-b239b4ee92ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;section_0&quot;)/h4[@class=&quot;collapse-toggle&quot;]/span[1]</value>
+      <webElementGuid>558a2607-e2a6-4a04-9b34-179126a4d6e3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//md-card-content[@id='section_0']/h4/span</value>
+      <webElementGuid>b382ed12-9393-46b2-aa41-f6457233d206</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Convert To Life Membership'])[1]/following::span[1]</value>
+      <webElementGuid>a6ada6b7-9eca-4785-afa6-8f633ee35938</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Life Conversion'])[2]/following::span[2]</value>
+      <webElementGuid>39a616ef-a271-4ded-aaf1-4500799da04f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Member ID'])[1]/preceding::span[1]</value>
+      <webElementGuid>8b0af400-53c3-4ddc-b3c1-c6ef96ab1070</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Member Name'])[1]/preceding::span[1]</value>
+      <webElementGuid>d0b71f3b-4e65-4180-a867-ef57ddc23944</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4/span</value>
+      <webElementGuid>d0894048-3399-457d-90de-88f65e6b8c71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Member' or . = 'Member')]</value>
+      <webElementGuid>339bf778-1dde-4814-8873-190a1d6378ec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

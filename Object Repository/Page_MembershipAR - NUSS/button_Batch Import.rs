@@ -7,7 +7,11 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>button.md-warn.md-button.ng-scope.md-ink-ripple</value>
+         <value>button.md-warn.md-button.md-ink-ripple</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[25]</value>
       </entry>
       <entry>
          <key>BASIC</key>
@@ -16,10 +20,6 @@
         ' or . = '
             Batch Import
         ')]</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='button'])[24]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -30,15 +30,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>9d50eba2-0003-4b88-a0e7-e9231340df88</webElementGuid>
+      <webElementGuid>09765301-519a-49e8-a6f1-4cba6ad61eee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>md-warn md-button ng-scope md-ink-ripple</value>
-      <webElementGuid>102c9cc2-7af5-4e96-9f70-8fc062210fde</webElementGuid>
+      <value>md-warn md-button md-ink-ripple</value>
+      <webElementGuid>798a825f-3584-4d02-95ba-b54e3e4a1053</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>d30e541e-f232-4267-82fb-13fb5d23a24e</webElementGuid>
+      <webElementGuid>6408db3e-b6a1-4d93-8fc8-b8d74084f5a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,8 +61,8 @@
       <matchCondition>equals</matchCondition>
       <name>ng-click</name>
       <type>Main</type>
-      <value>vm.routeTo('/MembershipAR/AR/DebitNoteStep?tag=D')</value>
-      <webElementGuid>ee0a5b1c-f039-49eb-a517-0a5053becdf8</webElementGuid>
+      <value>vm.routeTo('/MembershipAR/AR/CreditNoteStep?tag=C')</value>
+      <webElementGuid>19a069a0-2bd2-402f-ba8b-7b8cc74d5505</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -72,18 +72,94 @@
       <value>
             Batch Import
         </value>
-      <webElementGuid>07f05425-7719-4166-8369-ce2d259f4229</webElementGuid>
+      <webElementGuid>cbc5124f-a93b-4d8e-8dac-8a14eca0eb02</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mCSB_1_container&quot;)/div[@class=&quot;content-main ng-scope&quot;]/div[@class=&quot;content-body ng-scope&quot;]/div[@class=&quot;layout-align-end-center layout-row&quot;]/button[@class=&quot;md-warn md-button ng-scope md-ink-ripple&quot;]</value>
-      <webElementGuid>a7cf9ad4-21a1-4089-a642-574572aee282</webElementGuid>
+      <value>id(&quot;mCSB_1_container&quot;)/div[@class=&quot;content-main ng-scope&quot;]/div[@class=&quot;content-body ng-scope&quot;]/div[@class=&quot;ng-scope layout-align-end-center layout-row&quot;]/button[@class=&quot;md-warn md-button md-ink-ripple&quot;]</value>
+      <webElementGuid>b8266360-707c-4c54-a75c-e122b1ff8cd1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[25]</value>
+      <webElementGuid>57f4bff0-b2c8-4798-9998-38153ae26de4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mCSB_1_container']/div/div[2]/div/button</value>
+      <webElementGuid>66c0f42d-b290-4b4b-9d76-21e2e7174484</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Credit Note List'])[1]/following::button[1]</value>
+      <webElementGuid>74832c47-6c4b-4003-a7db-cf9e34efb496</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Membership'])[2]/following::button[1]</value>
+      <webElementGuid>44c250dd-4fef-4e85-a33c-be5e4ef2db97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Credit Note'])[1]/preceding::button[1]</value>
+      <webElementGuid>dd86eed2-9884-477e-90b9-9327f77aea9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rollback Credit Note'])[1]/preceding::button[2]</value>
+      <webElementGuid>c210b623-271b-42c7-a05b-e2c71f0713a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Batch Import']/parent::*</value>
+      <webElementGuid>a432762f-ed27-4df4-84d4-39d418edd580</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>54bfec6b-798d-4449-8492-a5ded2e25ac2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '
+            Batch Import
+        ' or . = '
+            Batch Import
+        ')]</value>
+      <webElementGuid>0b2ac8d9-41c8-4980-92a5-ba292640b3b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
@@ -93,26 +169,10 @@
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='mCSB_1_container']/div/div[2]/div/button</value>
-      <webElementGuid>501569ab-586e-44b2-914a-95aa1f61e2bf</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Debit Note List'])[1]/following::button[1]</value>
       <webElementGuid>c42dd01e-875b-46dd-860c-f5e1ef835c43</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Membership'])[2]/following::button[1]</value>
-      <webElementGuid>b81c0a75-c802-4448-bac8-fa73a5030caa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -129,33 +189,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Rollback Debit Note'])[1]/preceding::button[2]</value>
       <webElementGuid>a50cd743-4f3c-44fe-8481-9340f1542bfb</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Batch Import']/parent::*</value>
-      <webElementGuid>13534524-2e1f-4ad8-b028-ae3ba2137b4e</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[2]/div/button</value>
-      <webElementGuid>4560d831-cc7b-4d8e-88fe-6274e59a5230</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@type = 'button' and (text() = '
-            Batch Import
-        ' or . = '
-            Batch Import
-        ')]</value>
-      <webElementGuid>22d91848-baf1-4c92-951a-3ae7b4a05779</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Old Member ID</name>
+   <tag></tag>
+   <elementGuidId>928ef16d-74af-45f6-b45f-f36f3e9d08e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//md-tab-content[@id='tab-content-37']/div/md-card/md-table-container/table/thead/tr/th[3]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b74508e6-e483-4466-a862-7b2e73671ecb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Old Member ID</value>
+      <webElementGuid>0d9a3a0a-9c84-425d-833a-25dd683f9e16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab-content-37&quot;)/div[@class=&quot;ng-scope ng-isolate-scope&quot;]/md-card[@class=&quot;az-data-grid ng-scope _md&quot;]/md-table-container[1]/table[@class=&quot;md-row-hover md-row-striped md-row-readonly ng-pristine ng-untouched ng-valid md-table ng-scope ng-isolate-scope ng-not-empty&quot;]/thead[@class=&quot;md-head ng-isolate-scope&quot;]/tr[@class=&quot;md-row&quot;]/th[@class=&quot;undefined md-column ng-isolate-scope md-sort&quot;]/span[1]</value>
+      <webElementGuid>6e49b10f-cb32-45cc-95c3-ca86e61f08fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//md-tab-content[@id='tab-content-37']/div/md-card/md-table-container/table/thead/tr/th[3]/span</value>
+      <webElementGuid>c5cf86da-850a-4986-8969-d2e5a651fdab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/following::span[1]</value>
+      <webElementGuid>43fba563-37a6-4098-9c58-d703c8347c59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Member ID'])[1]/following::span[3]</value>
+      <webElementGuid>bfa588f3-46aa-4de9-91d9-478f05cf259f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Member ID'])[2]/preceding::span[1]</value>
+      <webElementGuid>5519a450-a26d-4bf1-a1cc-c86749dfef49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction Date'])[1]/preceding::span[2]</value>
+      <webElementGuid>ccd76416-a698-4abf-9a92-3b1e1f943b07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[3]/span</value>
+      <webElementGuid>48a62e3c-644f-43e1-8c69-03acd5eb0023</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Old Member ID' or . = 'Old Member ID')]</value>
+      <webElementGuid>7d7175a2-5a1f-4a6a-905b-6de8018e7f28</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

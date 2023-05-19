@@ -7,13 +7,18 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='mCSB_1_container']/div/div[2]/div/a[6]</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = 'MembershipAR/AR/Payment/PaymentRollbackList' and (text() = 'Rollback Payment' or . = 'Rollback Payment')]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -21,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>94905214-d0d4-4f22-8ae7-f984a9c9f70f</webElementGuid>
+      <webElementGuid>a9346bc6-0d13-4dac-9893-a7cda3c7f094</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>md-warn md-button ng-scope md-ink-ripple</value>
-      <webElementGuid>e34d2397-3dc5-4dde-88b0-8bf59e31f9d9</webElementGuid>
+      <webElementGuid>22ca1bb3-f73c-40e4-9657-5503fe751a52</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +42,7 @@
       <name>href</name>
       <type>Main</type>
       <value>MembershipAR/AR/Payment/PaymentRollbackList</value>
-      <webElementGuid>3c061ae9-3cd2-4661-ba5b-d4414695db08</webElementGuid>
+      <webElementGuid>9e3f5463-c4a3-4b08-9ea8-01de35863977</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +50,7 @@
       <name>ng-if</name>
       <type>Main</type>
       <value>vm.ARuserRight.HasPaymentRollbackRight</value>
-      <webElementGuid>439b9f49-30ac-47a6-a33b-d3a76dc851f2</webElementGuid>
+      <webElementGuid>8cbcb9f1-a312-46d3-83e0-e45365e09c0d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +58,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Rollback Payment</value>
-      <webElementGuid>1b54ba78-5728-4af7-bca4-4e5ddf84c9a0</webElementGuid>
+      <webElementGuid>d1cd669b-3d07-457a-af80-33fb44d7c244</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +66,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mCSB_1_container&quot;)/div[@class=&quot;content-main ng-scope&quot;]/div[@class=&quot;content-body ng-scope&quot;]/div[@class=&quot;layout-align-end-center layout-row&quot;]/a[@class=&quot;md-warn md-button ng-scope md-ink-ripple&quot;]</value>
-      <webElementGuid>a8efefd9-b87b-4da7-a9f1-15ede2bc85d6</webElementGuid>
+      <webElementGuid>8b7590fa-cb25-40ca-9654-2dede4112fe3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +74,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mCSB_1_container']/div/div[2]/div/a[6]</value>
-      <webElementGuid>0f902f60-4ce2-4b1e-9a05-409a0cd6ad47</webElementGuid>
+      <webElementGuid>985228da-2ff5-4431-9301-8e3e09d54b59</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +82,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Rollback Payment')]</value>
-      <webElementGuid>7c961919-8ab6-431d-ba21-fd82c3830070</webElementGuid>
+      <webElementGuid>63fa5b73-a0a0-45f8-b7e4-bf10c83319c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pay for reminder'])[1]/following::a[1]</value>
-      <webElementGuid>48274eae-9ea5-41c8-9c5e-f5ec6fe11fe6</webElementGuid>
+      <webElementGuid>2dcf2b03-da66-4366-9b7e-d84f7a372cc2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='New Payment'])[1]/following::a[2]</value>
-      <webElementGuid>1f5193f0-f4ef-4641-afd0-7e92e6becbff</webElementGuid>
+      <webElementGuid>0afa6ebf-c691-425f-af45-bc1ef5bd6edd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +106,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[1]/preceding::a[1]</value>
-      <webElementGuid>360b2c46-ab20-4038-b722-7b06ee1b6daf</webElementGuid>
+      <webElementGuid>1e35a1ad-0d40-48dd-8f91-a247a98b5e0e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +114,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Draft'])[1]/preceding::a[1]</value>
-      <webElementGuid>05578738-7c36-4758-9afc-3a6704fdd2d0</webElementGuid>
+      <webElementGuid>fc4a3fc4-c537-4689-9329-6bdc62ca23ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +122,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Rollback Payment']/parent::*</value>
-      <webElementGuid>e5f29a68-4a2e-43d9-9d42-a140c8ea6e11</webElementGuid>
+      <webElementGuid>3e9301f4-5f86-4f5e-83c6-b23aa63ec64c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +130,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'MembershipAR/AR/Payment/PaymentRollbackList')]</value>
-      <webElementGuid>0e10e603-9e54-46bd-890c-1fdc24a2c67b</webElementGuid>
+      <webElementGuid>9526ed17-666f-41b5-b4fb-448e53d85d3c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +138,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[6]</value>
-      <webElementGuid>c69dfe1e-cdf5-40d7-a11e-05ce0a6ffdc3</webElementGuid>
+      <webElementGuid>7b13b210-d1c3-4426-ae6a-c87c9738655f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +146,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'MembershipAR/AR/Payment/PaymentRollbackList' and (text() = 'Rollback Payment' or . = 'Rollback Payment')]</value>
-      <webElementGuid>aa464240-22f2-48ca-8716-d02e582fbe42</webElementGuid>
+      <webElementGuid>40da00e4-7f4a-4306-819f-7e738d1d97e5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

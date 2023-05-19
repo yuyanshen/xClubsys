@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Latest Update Date</name>
+   <tag></tag>
+   <elementGuidId>aa02b50b-5bd1-4cb4-ad15-a0740edbb1ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//md-tab-content[@id='tab-content-37']/div/md-card/md-table-container/table/thead/tr/th[11]/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[(text() = 'Latest Update Date' or . = 'Latest Update Date')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d151d4a1-b637-46c6-a28a-35b47c055b2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Latest Update Date</value>
+      <webElementGuid>7dce163c-1337-4379-80bc-3bfe46f593d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab-content-37&quot;)/div[@class=&quot;ng-scope ng-isolate-scope&quot;]/md-card[@class=&quot;az-data-grid ng-scope _md&quot;]/md-table-container[1]/table[@class=&quot;md-row-hover md-row-striped md-row-readonly ng-pristine ng-untouched ng-valid md-table ng-scope ng-isolate-scope ng-not-empty&quot;]/thead[@class=&quot;md-head ng-isolate-scope&quot;]/tr[@class=&quot;md-row&quot;]/th[@class=&quot;undefined md-column ng-isolate-scope md-sort&quot;]/span[1]</value>
+      <webElementGuid>33259cb8-2d23-45d4-8235-fb1b0cb9c7b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//md-tab-content[@id='tab-content-37']/div/md-card/md-table-container/table/thead/tr/th[11]/span</value>
+      <webElementGuid>d7f81594-584a-4b62-bc55-ebdcec646864</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Effective Date'])[1]/following::span[1]</value>
+      <webElementGuid>aeb3fe80-22f1-46aa-95a0-5c295d5cc6a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date of Request'])[1]/following::span[2]</value>
+      <webElementGuid>b2d7de29-3367-4737-884f-fbbe47ba39ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Page:'])[1]/preceding::span[1]</value>
+      <webElementGuid>790134c7-84bb-4a8a-a8da-da6a6e103371</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rows per page:'])[1]/preceding::span[3]</value>
+      <webElementGuid>038a179f-35fc-4937-80f8-e6aecd5f2c6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Latest Update Date']/parent::*</value>
+      <webElementGuid>da326ff9-d89c-4008-8d17-9b53120ee00d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[11]/span</value>
+      <webElementGuid>c38e7c1f-fd9f-4a41-bdfd-ef3c58137a09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Latest Update Date' or . = 'Latest Update Date')]</value>
+      <webElementGuid>94cd92af-e3d0-4576-9300-d7f44aa4940a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//md-tab-content[@id='tab-content-37']/div/md-card/md-table-container/table/thead/tr/th[9]/span</value>
+      <webElementGuid>90b6b472-c8c2-41e6-a351-57aff2216249</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remarks'])[1]/following::span[1]</value>
+      <webElementGuid>5ee26ae8-6c3a-4549-928f-d79239302b2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction Date'])[1]/following::span[2]</value>
+      <webElementGuid>d6504877-d0d1-4186-a855-9fb1a9835be1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[9]/span</value>
+      <webElementGuid>3603eebc-aea8-4e8d-a217-9f177ddb6dc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//md-tab-content[@id='tab-content-37']/div/md-card/md-table-container/table/thead/tr/th[6]/span</value>
+      <webElementGuid>36aa6f74-71ad-4b40-8a6e-eb047d2b9360</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction Date'])[1]/following::span[1]</value>
+      <webElementGuid>7f0cfd2c-1d18-456a-a84b-dd14927103ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Member ID'])[2]/following::span[2]</value>
+      <webElementGuid>769fa2cc-eb37-4265-91e6-13712ab8e64f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[6]/span</value>
+      <webElementGuid>0d6ae773-cae1-4cb8-ada4-60f107d5abdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//md-tab-content[@id='tab-content-37']/div/md-card/md-table-container/table/thead/tr/th[7]/span</value>
+      <webElementGuid>fac9d005-f3b3-4908-a9ed-b1b461b815ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='End of Service'])[2]/following::span[1]</value>
+      <webElementGuid>fad68d74-edbb-4c7e-a719-729f71eeedbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Date'])[2]/following::span[2]</value>
+      <webElementGuid>3ab2fce6-def2-4e8b-8b12-da6c2128915f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[7]/span</value>
+      <webElementGuid>e6787781-15df-456b-97ae-098fcfe4ac56</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

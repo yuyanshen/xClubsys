@@ -10,12 +10,12 @@
          <value>button.md-warn.md-button.ng-scope.md-ink-ripple</value>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'button' and (text() = 'Generate Data' or . = 'Generate Data')]</value>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[25]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='button'])[24]</value>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = 'Generate Data' or . = 'Generate Data')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0449df75-a5bc-4dc8-84da-4166333054e9</webElementGuid>
+      <webElementGuid>419d9e00-37df-4daa-9fdc-561effa0462a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>md-warn md-button ng-scope md-ink-ripple</value>
-      <webElementGuid>0b674406-a2dc-4c9a-b3e1-cc9c4e601d47</webElementGuid>
+      <webElementGuid>c89e9a62-993c-4676-8016-3391c91f5e1a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>5e2f3427-2b75-46e9-b56d-038a52cdc3b2</webElementGuid>
+      <webElementGuid>2b7a8c02-2fe5-424a-8967-04a1d14180ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>ng-if</name>
       <type>Main</type>
       <value>vm.ARuserRight.HasInitMonthEndClosingDataRight</value>
-      <webElementGuid>69d7123c-5dfa-4564-b7da-d5554abe4388</webElementGuid>
+      <webElementGuid>284e1ac4-f5e9-46eb-b2f4-c839bd964aee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,7 +58,7 @@
       <name>ng-click</name>
       <type>Main</type>
       <value>vm.genMonthEndClosingData()</value>
-      <webElementGuid>b84b6ae4-34e2-45a5-bba9-52285772078d</webElementGuid>
+      <webElementGuid>d1a9469a-48c9-476a-8358-29833e1dd51d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -66,7 +66,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Generate Data</value>
-      <webElementGuid>b505ba9c-ee56-4229-b0b7-3d681459de9f</webElementGuid>
+      <webElementGuid>d2ef56d9-4915-4c01-bf0c-a97b330b7325</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -74,15 +74,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mCSB_1_container&quot;)/div[@class=&quot;content-main ng-scope&quot;]/div[@class=&quot;content-body ng-scope&quot;]/div[@class=&quot;layout-align-end-center layout-row&quot;]/button[@class=&quot;md-warn md-button ng-scope md-ink-ripple&quot;]</value>
-      <webElementGuid>59997d22-e907-467e-82fa-c70fb48a8dae</webElementGuid>
+      <webElementGuid>2369ede9-6651-48da-9a69-baea7c6d86b8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[24]</value>
-      <webElementGuid>66577e1f-bbc5-4777-90f1-cd04b31f5dc1</webElementGuid>
+      <value>(//button[@type='button'])[25]</value>
+      <webElementGuid>709a83ec-dc24-4615-8164-051efc5c3e08</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mCSB_1_container']/div/div[2]/div/button</value>
-      <webElementGuid>3266e1ae-a962-4568-879f-652f4d80220c</webElementGuid>
+      <webElementGuid>e12f5950-d5f2-427a-9ffe-1ac086161d8c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Statement'])[1]/following::button[1]</value>
-      <webElementGuid>0f527fa1-09dd-4836-a241-ef8d0db88d1a</webElementGuid>
+      <webElementGuid>ba592fd6-8d0b-4da1-b1ea-edc9173d5752</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Membership'])[2]/following::button[1]</value>
-      <webElementGuid>829c2c6d-6a58-4ef0-ba61-c3e87e189a59</webElementGuid>
+      <webElementGuid>5d5e8ba6-4ea1-4c8d-a752-6b4a6bed495d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,7 +114,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Month End Closing'])[1]/preceding::button[1]</value>
-      <webElementGuid>f7a72e48-249a-455d-83cc-bb01931ad1ac</webElementGuid>
+      <webElementGuid>52b573f3-e8c1-41d7-b846-a02c43e73b64</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -122,7 +122,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Closed Month'])[2]/preceding::button[1]</value>
-      <webElementGuid>61708069-9090-4773-bd2f-0e24fe4ec905</webElementGuid>
+      <webElementGuid>3d314f66-9b38-43de-96b6-d26cdde5092f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -130,7 +130,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Generate Data']/parent::*</value>
-      <webElementGuid>60548ed4-d018-42ba-b2b4-5d9902e5d55b</webElementGuid>
+      <webElementGuid>11f8cb26-d4ca-4735-a385-88f35cbaa79d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -138,7 +138,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/button</value>
-      <webElementGuid>0465c5dc-ebe1-4dd0-bbfc-bbc376a5b7c4</webElementGuid>
+      <webElementGuid>60b76572-73d8-43ad-9096-5b1c8d35588f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -146,6 +146,14 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Generate Data' or . = 'Generate Data')]</value>
-      <webElementGuid>47c703f6-b2bf-4c1d-8f7b-6097f91abf7b</webElementGuid>
+      <webElementGuid>20c040c6-a1a7-4c50-9a25-517a8893e485</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[24]</value>
+      <webElementGuid>66577e1f-bbc5-4777-90f1-cd04b31f5dc1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

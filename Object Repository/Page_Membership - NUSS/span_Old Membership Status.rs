@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Old Membership Status</name>
+   <tag></tag>
+   <elementGuidId>dd014825-83e7-4e74-9e64-40a5e5286481</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//md-tab-content[@id='tab-content-37']/div/md-card/md-table-container/table/thead/tr/th[4]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f58938c3-2ac3-43c3-828e-0d35fa72bb48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Old Membership Status</value>
+      <webElementGuid>5ba5bcbf-5b05-4d8b-86d2-62c526fde8e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab-content-37&quot;)/div[@class=&quot;ng-scope ng-isolate-scope&quot;]/md-card[@class=&quot;az-data-grid ng-scope _md&quot;]/md-table-container[1]/table[@class=&quot;md-row-hover md-row-striped md-row-readonly ng-pristine ng-untouched ng-valid md-table ng-scope ng-isolate-scope ng-not-empty&quot;]/thead[@class=&quot;md-head ng-isolate-scope&quot;]/tr[@class=&quot;md-row&quot;]/th[@class=&quot;undefined md-column ng-isolate-scope md-sort&quot;]/span[1]</value>
+      <webElementGuid>7425b5f6-452d-43d4-929f-b4e4547d1888</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//md-tab-content[@id='tab-content-37']/div/md-card/md-table-container/table/thead/tr/th[4]/span</value>
+      <webElementGuid>375f2741-9ebc-4a1f-bc0c-809fd403c9eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/following::span[1]</value>
+      <webElementGuid>2696cda2-99ca-44c7-b4e6-dab7842e2cc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Member ID'])[2]/following::span[2]</value>
+      <webElementGuid>f5528665-f876-4c1a-9316-89aa2f7c9952</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Membership Status'])[2]/preceding::span[1]</value>
+      <webElementGuid>94eb1884-fbba-485f-b1c7-36791e71f4be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction Date'])[1]/preceding::span[2]</value>
+      <webElementGuid>3edd36b5-c166-4868-8781-cddf15155c50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[4]/span</value>
+      <webElementGuid>761a3a10-f4f1-49b3-9a3f-62bf278013d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Old Membership Status' or . = 'Old Membership Status')]</value>
+      <webElementGuid>58f3f0cf-65b0-45e5-8a17-4466198870f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

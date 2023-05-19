@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Payment Mode</name>
+   <tag></tag>
+   <elementGuidId>391978e6-7ace-42a9-9270-cba415e0fdbf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mCSB_1_container']/div/div[2]/div[2]/form/md-card/md-card-content[2]/div/div/md-card/md-table-container/table/thead/tr/th[8]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>04497c49-c3bd-423f-919f-c9301e95454a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Payment Mode</value>
+      <webElementGuid>26ef300f-b1ba-48b9-890f-688eff1cf2b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mCSB_1_container&quot;)/div[@class=&quot;content-main ng-scope&quot;]/div[@class=&quot;content-body ng-scope&quot;]/div[2]/form[@class=&quot;form-card ng-pristine ng-invalid ng-invalid-required ng-valid-md-multiple&quot;]/md-card[@class=&quot;_md&quot;]/md-card-content[@class=&quot;collapse md-card-content-has-title&quot;]/div[@class=&quot;collapse-target&quot;]/div[@class=&quot;layout-xs-column layout-sm-column layout-row&quot;]/md-card[@class=&quot;az-data-grid ng-scope _md flex-100&quot;]/md-table-container[1]/table[@class=&quot;md-row-hover md-row-striped ng-pristine ng-untouched ng-valid md-table ng-scope ng-isolate-scope ng-not-empty&quot;]/thead[@class=&quot;md-head ng-isolate-scope&quot;]/tr[@class=&quot;md-row&quot;]/th[@class=&quot;undefined md-column ng-isolate-scope&quot;]/span[1]</value>
+      <webElementGuid>a10fe3ec-c9cc-43a7-8a83-3bd8070812e2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mCSB_1_container']/div/div[2]/div[2]/form/md-card/md-card-content[2]/div/div/md-card/md-table-container/table/thead/tr/th[8]/span</value>
+      <webElementGuid>aec7479a-8349-4259-8cf2-0dce3e94fad8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mailing Type'])[3]/following::span[1]</value>
+      <webElementGuid>a4908865-a310-46d9-bde0-c49e5b6218b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Member Type'])[3]/following::span[2]</value>
+      <webElementGuid>ba5686b3-863a-494d-9b9a-786e72e15c7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Debit'])[1]/preceding::span[1]</value>
+      <webElementGuid>6bbc4fe8-fc54-4da8-84a9-c94dfbe977ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Credit'])[1]/preceding::span[2]</value>
+      <webElementGuid>6243dc49-1455-4b56-9ab0-f9e4fd3ccd8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[8]/span</value>
+      <webElementGuid>4062518a-ad2e-413f-843b-dc9c4d115462</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Payment Mode' or . = 'Payment Mode')]</value>
+      <webElementGuid>54f84d2c-0b73-4415-a0f4-619fbf6bc6e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

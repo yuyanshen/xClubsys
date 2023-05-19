@@ -7,14 +7,15 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@href = '/MembershipAR/AR/Reminder/Adjustment' and (text() = 'Adjustment' or . = 'Adjustment')]</value>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='mCSB_1_container']/div/div[2]/div/a[3]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = '/MembershipAR/AR/Reminder/Adjustment' and (text() = 'Adjustment' or . = 'Adjustment')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -25,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>1f5fbffe-dab8-4ecc-9d86-3ee8ab4a5659</webElementGuid>
+      <webElementGuid>5fd5b0b1-dc7a-46bc-8547-6bdf2e18efcb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -33,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>md-warn md-button md-ink-ripple</value>
-      <webElementGuid>4f6bcfc1-ab9e-4035-8ebf-864ee09494e5</webElementGuid>
+      <webElementGuid>14ebca73-371d-4c5a-9ee3-e7bb11bcc732</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +42,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/MembershipAR/AR/Reminder/Adjustment</value>
-      <webElementGuid>84dcb7f8-68f6-4517-9219-e6561d8088f3</webElementGuid>
+      <webElementGuid>405202ac-59e8-4006-8680-e9d67970b005</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,7 +50,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Adjustment</value>
-      <webElementGuid>3599752c-4002-464c-ab3d-e0c4460345cc</webElementGuid>
+      <webElementGuid>a5857c5c-d7cb-4c1d-a171-2587b9a9a44e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,7 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mCSB_1_container&quot;)/div[@class=&quot;content-main ng-scope&quot;]/div[@class=&quot;content-body ng-scope&quot;]/div[@class=&quot;layout-align-end-center layout-row&quot;]/a[@class=&quot;md-warn md-button md-ink-ripple&quot;]</value>
-      <webElementGuid>ce477b3f-ab72-4e18-acea-85d33cb2b804</webElementGuid>
+      <webElementGuid>01dabd0e-c70b-4552-9287-03eed4d673cf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -65,7 +66,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mCSB_1_container']/div/div[2]/div/a[3]</value>
-      <webElementGuid>6af4d592-37b4-49b0-a666-63d89723fef3</webElementGuid>
+      <webElementGuid>31792681-b28e-45bd-af1f-4ba740383d7b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -73,7 +74,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Adjustment')]</value>
-      <webElementGuid>f3a75e11-fcdd-4456-b731-18778ba23317</webElementGuid>
+      <webElementGuid>26941186-c270-4dbf-8584-5af24c138203</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Print'])[1]/following::a[1]</value>
-      <webElementGuid>1732879a-6ea8-4d45-9ab2-1fc7af63f543</webElementGuid>
+      <webElementGuid>b6a993bb-547f-48b9-9ba2-f5f21f2a7a21</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Generate'])[1]/following::a[2]</value>
-      <webElementGuid>f92d1335-47af-4191-a48f-42def85ceb58</webElementGuid>
+      <webElementGuid>e2ad8e67-e166-4e24-a2aa-f20873595040</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='History'])[1]/preceding::a[1]</value>
-      <webElementGuid>17813362-ec12-40e9-9428-747933a5971a</webElementGuid>
+      <webElementGuid>89653905-de15-4ecf-8bc9-82797b4eef73</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +106,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Setup'])[1]/preceding::a[2]</value>
-      <webElementGuid>ebc50fff-31b9-4849-ba21-34f0664b26d3</webElementGuid>
+      <webElementGuid>062e0c7f-579a-47c8-9d46-bec60c268b29</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,7 +114,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Adjustment']/parent::*</value>
-      <webElementGuid>5fdeeea6-191b-4402-95f2-cb8c79af2df4</webElementGuid>
+      <webElementGuid>fb4eb9e2-17af-4b29-9b2b-24b369d46a4b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -121,7 +122,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/MembershipAR/AR/Reminder/Adjustment')]</value>
-      <webElementGuid>19ac0aac-83b1-4e29-980d-2e31c2e89e99</webElementGuid>
+      <webElementGuid>1fb31848-c1dd-4848-a03b-664534322030</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -129,7 +130,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/a[3]</value>
-      <webElementGuid>f67fd0f7-6f00-4209-922d-8c8d53aa93b1</webElementGuid>
+      <webElementGuid>15898a16-20d2-4a1d-b371-0b9606be814a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -137,6 +138,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/MembershipAR/AR/Reminder/Adjustment' and (text() = 'Adjustment' or . = 'Adjustment')]</value>
-      <webElementGuid>42604d02-68f2-4eb6-ac56-a321d2ab7964</webElementGuid>
+      <webElementGuid>437c935c-4d88-46ee-945b-7584c3bc4b70</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

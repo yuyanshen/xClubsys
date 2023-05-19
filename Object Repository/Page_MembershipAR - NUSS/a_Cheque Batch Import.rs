@@ -13,6 +13,10 @@
          <key>XPATH</key>
          <value>//div[@id='mCSB_1_container']/div/div[2]/div/a</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = 'MembershipAR/AR/Payment/ChequeImportStep?tag=Cheque' and (text() = 'Cheque Batch Import' or . = 'Cheque Batch Import')]</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>4b7bf3f7-b6af-4732-93a9-ef78bfe13599</webElementGuid>
+      <webElementGuid>d4bf0158-c2d7-452c-af75-d46b9079e049</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>md-warn md-button ng-scope md-ink-ripple</value>
-      <webElementGuid>1bb43b6c-45a2-4f49-b890-badc6d3acac4</webElementGuid>
+      <webElementGuid>80edd85b-5bfa-4767-a7a5-32751c5668a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>href</name>
       <type>Main</type>
       <value>MembershipAR/AR/Payment/ChequeImportStep?tag=Cheque</value>
-      <webElementGuid>db6cdfc0-ecf3-4904-bd27-e090a2504c0c</webElementGuid>
+      <webElementGuid>4f240cc5-f75e-4a49-91cd-ad34be439bd7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>ng-if</name>
       <type>Main</type>
       <value>vm.ARuserRight.HasPaymentBatchImportRight</value>
-      <webElementGuid>98bca3af-d94b-4480-9a77-a39e027457e8</webElementGuid>
+      <webElementGuid>41886337-3099-46a4-82b8-33326a095758</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Cheque Batch Import</value>
-      <webElementGuid>b5bf0b83-d9fa-40f0-8f0c-88c33eb96526</webElementGuid>
+      <webElementGuid>e2d3ea1c-ac3a-48da-aa0f-d73d4348ec28</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mCSB_1_container&quot;)/div[@class=&quot;content-main ng-scope&quot;]/div[@class=&quot;content-body ng-scope&quot;]/div[@class=&quot;layout-align-end-center layout-row&quot;]/a[@class=&quot;md-warn md-button ng-scope md-ink-ripple&quot;]</value>
-      <webElementGuid>19a0cfe1-c5b0-4535-94a0-0da833925d5a</webElementGuid>
+      <webElementGuid>ad63eb33-71f6-4990-bfd1-dbb1c79668d1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mCSB_1_container']/div/div[2]/div/a</value>
-      <webElementGuid>3943de39-baef-495d-9850-1d19c5e66f16</webElementGuid>
+      <webElementGuid>f030b89a-cff7-4e39-bf1e-f6aa7dec6144</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Cheque Batch Import')]</value>
-      <webElementGuid>4b23ff51-9a27-43b4-9cc6-3a67d53bfd09</webElementGuid>
+      <webElementGuid>317b9026-589c-4e43-9eae-fc77dd5668dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment History List'])[1]/following::a[1]</value>
-      <webElementGuid>6d996e53-431a-45f3-962f-5ca9c0d3efdd</webElementGuid>
+      <webElementGuid>88393ff2-ca90-4d85-93bf-d640df8eaa42</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Membership'])[2]/following::a[1]</value>
-      <webElementGuid>be11b6ea-23aa-4735-8c16-b48cdde18488</webElementGuid>
+      <webElementGuid>6d2c9d2e-2ebe-497c-a15e-96c0844b72e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +106,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='DBS Batch Import'])[1]/preceding::a[1]</value>
-      <webElementGuid>faf2f411-8379-4e98-9cd6-fc215b020e99</webElementGuid>
+      <webElementGuid>2b73eb6b-2169-44b2-acc2-ee9d4ba17506</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +114,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Batch Import'])[1]/preceding::a[2]</value>
-      <webElementGuid>26f845ae-7729-471b-9b79-e6ed031b6932</webElementGuid>
+      <webElementGuid>448fa878-f998-4816-a93c-dc9a007ab901</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +122,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Cheque Batch Import']/parent::*</value>
-      <webElementGuid>a39fa24d-0ec5-4f60-94c7-0793ab940219</webElementGuid>
+      <webElementGuid>29068fe3-cbdf-4183-ada3-d29c4b2b1696</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +130,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'MembershipAR/AR/Payment/ChequeImportStep?tag=Cheque')]</value>
-      <webElementGuid>c22bb202-7ede-47f3-8ed8-4e5cd7f59198</webElementGuid>
+      <webElementGuid>b29d06e6-140e-46e9-82cb-3eea99e55cf4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +138,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/a</value>
-      <webElementGuid>d47815ae-a967-406f-bf91-d745308a412d</webElementGuid>
+      <webElementGuid>ca10c374-42d3-4056-a87a-8af6a0744325</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +146,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'MembershipAR/AR/Payment/ChequeImportStep?tag=Cheque' and (text() = 'Cheque Batch Import' or . = 'Cheque Batch Import')]</value>
-      <webElementGuid>0e4d6143-449c-4fcd-8829-cb732fe5976e</webElementGuid>
+      <webElementGuid>0050c87e-51cd-41f9-bd94-41394b965414</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_Transaction</name>
+   <tag></tag>
+   <elementGuidId>9d535c6d-31e0-4432-9a69-8a6b7515be13</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#section_4 > h4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//md-card-content[@id='section_4']/h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>6f1f04d2-f283-42ae-aa5d-ea870b32c0b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Transaction</value>
+      <webElementGuid>c2950747-397d-446f-bf59-e71d065e90ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;section_4&quot;)/h4[1]</value>
+      <webElementGuid>c510268d-444d-48bd-a944-79ac3776be34</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//md-card-content[@id='section_4']/h4</value>
+      <webElementGuid>8f618c07-77e2-432a-84ec-49a68095a6a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Membership Type'])[3]/following::h4[1]</value>
+      <webElementGuid>c0a953b9-11c9-4881-ae26-75131502cc18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Member ID required.'])[1]/following::h4[1]</value>
+      <webElementGuid>cafef8b8-524a-40c6-bad0-26a754244421</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transfer Reason / Remarks'])[2]/preceding::h4[1]</value>
+      <webElementGuid>6410170c-8a57-4161-a05c-159a852f832a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transfer to 3rd party'])[1]/preceding::h4[1]</value>
+      <webElementGuid>d326cc16-a8bb-4b2c-bd52-d5e638e257ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Transaction']/parent::*</value>
+      <webElementGuid>ef682152-ec64-40a3-a579-7693f89b8e6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//md-card-content[3]/h4</value>
+      <webElementGuid>65eece79-e62c-461a-bb0e-d8ca04301d20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'Transaction' or . = 'Transaction')]</value>
+      <webElementGuid>940485a0-326f-4706-bd3b-653a0498d0d3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

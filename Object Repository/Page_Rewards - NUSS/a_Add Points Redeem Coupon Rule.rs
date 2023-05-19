@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Add Points Redeem Coupon Rule</name>
+   <tag></tag>
+   <elementGuidId>03026632-8cb6-40bc-8656-94ea64743f89</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.md-warn.md-button.md-ink-ripple.md-focused</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mCSB_1_container']/div/div[2]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>25d3a89b-7d0d-47f7-a6df-1db559436556</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>md-warn md-button md-ink-ripple md-focused</value>
+      <webElementGuid>5cde7f1e-6733-47af-bf73-e6ead307df31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/FBRewards/PointsRule/Redeem/Coupon/Edit</value>
+      <webElementGuid>dbfc8d20-ac9e-4436-ae48-cbedfb1482c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Points Redeem Coupon Rule </value>
+      <webElementGuid>94f55f1a-609f-4092-a8a0-57f23d021b02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mCSB_1_container&quot;)/div[@class=&quot;content-main ng-scope&quot;]/div[@class=&quot;content-body ng-scope&quot;]/div[@class=&quot;layout-align-end-center layout-row&quot;]/a[@class=&quot;md-warn md-button md-ink-ripple md-focused&quot;]</value>
+      <webElementGuid>49e5d660-1cfc-4530-ae4d-63866a7f5d7c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mCSB_1_container']/div/div[2]/div/a</value>
+      <webElementGuid>26dda78c-f74d-48db-8032-2f706e2fa71d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Add Points Redeem Coupon Rule')]</value>
+      <webElementGuid>91f4e11b-480d-4785-a111-f2676863bf01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Points Redeem Coupon Rule'])[1]/following::a[1]</value>
+      <webElementGuid>16b7bcea-0094-4bb7-a8e6-4e7d3446a560</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Coupon'])[2]/following::a[1]</value>
+      <webElementGuid>45b635c6-45e8-4a73-89ea-8135df6125da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Points'])[1]/preceding::a[1]</value>
+      <webElementGuid>15a013a6-2852-4f11-a8e3-2664eb5d2db1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Coupon Template'])[1]/preceding::a[1]</value>
+      <webElementGuid>a6d73ead-56c2-4223-ae91-f825c3e6778e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Points Redeem Coupon Rule']/parent::*</value>
+      <webElementGuid>3f176a1d-898b-4174-9cec-ae078649fa61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/FBRewards/PointsRule/Redeem/Coupon/Edit')]</value>
+      <webElementGuid>f24228f5-b878-48b7-90d9-4eb7f16abd4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a</value>
+      <webElementGuid>c40247e2-f0d5-4130-bc58-bdbdb7ee3e43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/FBRewards/PointsRule/Redeem/Coupon/Edit' and (text() = 'Add Points Redeem Coupon Rule ' or . = 'Add Points Redeem Coupon Rule ')]</value>
+      <webElementGuid>be9632d1-9e02-4ae0-9306-257709f911f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

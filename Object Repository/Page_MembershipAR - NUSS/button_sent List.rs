@@ -13,6 +13,14 @@
          <key>XPATH</key>
          <value>(//button[@type='button'])[24]</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = '
+            sent List
+        ' or . = '
+            sent List
+        ')]</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
@@ -22,7 +30,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a956f6af-99aa-4fb9-baae-4fa32e543152</webElementGuid>
+      <webElementGuid>42076a92-f91b-4cb5-9150-91e7c41d1921</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>md-warn md-button md-ink-ripple</value>
-      <webElementGuid>38c4385f-8023-403d-a9a6-4a90d5b3ca0e</webElementGuid>
+      <webElementGuid>67000486-059a-46e9-97c6-f2b92675017e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>8e134a9b-1da3-4956-b7dd-3e6df42d0ec9</webElementGuid>
+      <webElementGuid>d61c379d-49dd-4cb0-8fab-22f43c3a984b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,17 +54,17 @@
       <name>ng-click</name>
       <type>Main</type>
       <value>vm.routeTo('/MembershipAR/AR/SendStatement/List')</value>
-      <webElementGuid>27cccad7-17e3-45fd-bbb4-9d667077a42d</webElementGuid>
+      <webElementGuid>46bc6215-3a2b-4920-aaed-53bbea13d1ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
       <value>
             sent List
         </value>
-      <webElementGuid>b758e110-bc80-4315-99b7-52ce29798642</webElementGuid>
+      <webElementGuid>57c4261c-1a84-436a-9cda-b395d06d3de3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -64,7 +72,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mCSB_1_container&quot;)/div[@class=&quot;content-main ng-scope&quot;]/div[@class=&quot;content-body ng-scope&quot;]/div[@class=&quot;layout-align-end-center layout-row&quot;]/button[@class=&quot;md-warn md-button md-ink-ripple&quot;]</value>
-      <webElementGuid>ba0bce82-c291-400c-b173-5808611b09f9</webElementGuid>
+      <webElementGuid>c44bedaf-8897-425b-bc8b-dc017702160e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -72,7 +80,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[24]</value>
-      <webElementGuid>c030a7df-5924-428c-8c4e-afb18079fb11</webElementGuid>
+      <webElementGuid>d3ca2a53-58bf-4a5b-baa8-d6136a6f2d33</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,7 +88,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mCSB_1_container']/div/div[2]/div/button</value>
-      <webElementGuid>ade88417-d6bc-4a9d-bd1a-ed2b4e7fe2dc</webElementGuid>
+      <webElementGuid>643e8394-b1e8-4c89-85df-1cd4b1280067</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +96,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Electronic Statement'])[3]/following::button[1]</value>
-      <webElementGuid>f7115037-36cd-4d48-a741-e9f8ed725357</webElementGuid>
+      <webElementGuid>14270957-f025-4fd7-943b-ddb152be8969</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +104,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Membership'])[2]/following::button[1]</value>
-      <webElementGuid>781a955a-7e21-4ff2-8b52-51d02049701f</webElementGuid>
+      <webElementGuid>5002a11a-473d-41a4-9a61-1bc18134fb09</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,7 +112,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Closed Month'])[2]/preceding::button[1]</value>
-      <webElementGuid>fd58a7f3-e997-4001-b35e-43abaf2bb7c4</webElementGuid>
+      <webElementGuid>d5af2d9e-de16-4be0-9f20-1b2758886b11</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,7 +120,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Closed Month is required.'])[1]/preceding::button[1]</value>
-      <webElementGuid>f94c3039-83e7-467b-9fdf-0ae70e90113d</webElementGuid>
+      <webElementGuid>94b8ec0c-909c-47de-b445-523cd95b6bbc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,7 +128,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='sent List']/parent::*</value>
-      <webElementGuid>e3926723-25b5-49bf-88dc-6ecfa56a4f15</webElementGuid>
+      <webElementGuid>318476d5-b4f3-421b-af62-e88b07216b7b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -128,7 +136,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/button</value>
-      <webElementGuid>e9e7321b-888f-44cc-ae50-55b58c42c2c2</webElementGuid>
+      <webElementGuid>2c04759b-5d6b-48cf-adbe-f0f984c05147</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -140,6 +148,6 @@
         ' or . = '
             sent List
         ')]</value>
-      <webElementGuid>3db61a53-bad8-4e23-af00-4a05f2b2e4c7</webElementGuid>
+      <webElementGuid>2bf3b262-fc9c-4df8-b84c-2241ba3bcb16</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
